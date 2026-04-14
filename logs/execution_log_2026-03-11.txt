@@ -1,0 +1,1322 @@
+[10:05:09] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:05:09] Inicio de sesión completado correctamente.
+[10:05:18] Modo seleccionado: 1
+[10:05:18] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[10:05:22] Acción: Clic en Mis evaluaciones
+[10:05:36] Cambiado a Otras evaluaciones
+[10:05:43] Evaluando a: Jesus Martinez Navarro
+[10:05:43] Clic en: Comenzar evaluación
+[10:05:44] Respondiendo sección: Desempeño
+[10:06:04] Error en acción: Pregunta 1 (Desempeño): FRECUENTEMENTE -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='answer_946_116']/div[2]/label (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 2 (Desempeño): NUNCA -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 3 (Desempeño): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 4 (Desempeño): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 5 (Desempeño): FRECUENTEMENTE -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 6 (Desempeño): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 7 (Desempeño): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 8 (Desempeño): NUNCA -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Respondiendo sección: Potencial
+[10:06:12] Error en acción: Pregunta 1 (Potencial): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 2 (Potencial): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 3 (Potencial): NUNCA -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 4 (Potencial): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 5 (Potencial): RARA VEZ -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 6 (Potencial): NUNCA -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 7 (Potencial): SIEMPRE -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Pregunta 8 (Potencial): NUNCA -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Error en acción: Finalizar evaluación -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:12] Evaluación finalizada para: Jesus Martinez Navarro
+[10:06:14] Error Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[10:06:14] Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e75395f232dde96b1d487046d371751, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59494}, goog:processID: 14636, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e75395f232dde96b1d487046d371751
+[11:16:36] Error durante el login: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.160)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d19314a5cb56d6384766821d3cc477a9, sendKeysToElement {id=f.212EDB4B2F6E1951ED917B176C77DE2C.d.91EB5C4C0CB9E572FDE473B97DDC6FA9.e.23, value=[Ljava.lang.CharSequence;@6e2aa843}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58302}, goog:processID: 12828, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58302/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d19314a5cb56d6384766821d3cc477a9)] -> xpath: //*[@id="payrollNumber"]]
+Session ID: d19314a5cb56d6384766821d3cc477a9
+[11:16:36] Inicio de sesión completado correctamente.
+[11:17:19] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50570}, goog:processID: 10660, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50570/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e983ce33d532a3ab913d6476231547aa
+[11:17:19] Inicio de sesión completado correctamente.
+[11:17:25] Modo seleccionado: 1
+[11:17:25] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:17:29] Acción: Clic en Mis evaluaciones
+[11:17:29] Cambiado a Otras evaluaciones
+[11:17:30] Evaluando a: Josué Macario Rodríguez Díaz
+[11:17:31] Clic en: Comenzar evaluación
+[11:17:32] Respondiendo sección: Desempeño
+[11:17:52] Error en acción: Pregunta 1 (Desempeño): RARA VEZ -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='answer_946_116']/div[4]/label (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50570}, goog:processID: 10660, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50570/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e983ce33d532a3ab913d6476231547aa
+[11:22:10] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50565}, goog:processID: 1976, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50565/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 981bdc292369faf5fd9dbf017bc68d25
+[11:22:10] Inicio de sesión completado correctamente.
+[11:22:16] Modo seleccionado: 1
+[11:22:16] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:22:20] Acción: Clic en Mis evaluaciones
+[11:22:20] Cambiado a Otras evaluaciones
+[11:22:21] Evaluando a: Josué Macario Rodríguez Díaz
+[11:22:22] Clic en: Comenzar evaluación
+[11:22:23] Respondiendo sección: Desempeño
+[11:22:27] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[11:22:31] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:22:34] Acción: Pregunta 3 (Desempeño): A VECES
+[11:22:38] Acción: Pregunta 4 (Desempeño): A VECES
+[11:22:42] Acción: Pregunta 5 (Desempeño): A VECES
+[11:22:45] Acción: Pregunta 6 (Desempeño): A VECES
+[11:22:49] Acción: Pregunta 7 (Desempeño): RARA VEZ
+[11:22:53] Acción: Pregunta 8 (Desempeño): NUNCA
+[11:22:53] Respondiendo sección: Potencial
+[11:22:57] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[11:23:00] Acción: Pregunta 2 (Potencial): A VECES
+[11:23:04] Acción: Pregunta 3 (Potencial): RARA VEZ
+[11:23:08] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:23:11] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[11:23:15] Acción: Pregunta 6 (Potencial): NUNCA
+[11:23:19] Acción: Pregunta 7 (Potencial): A VECES
+[11:23:22] Acción: Pregunta 8 (Potencial): NUNCA
+[11:23:26] Acción: Finalizar evaluación
+[11:23:26] Evaluación finalizada para: Josué Macario Rodríguez Díaz
+[11:23:32] Cambiado a Otras evaluaciones
+[11:23:53] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:23:54] Evaluando a: Jose Eduardo Mar Gallegos
+[11:23:55] Clic en: Comenzar evaluación
+[11:23:56] Respondiendo sección: Desempeño
+[11:24:00] Acción: Pregunta 1 (Desempeño): RARA VEZ
+[11:24:03] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:24:07] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[11:24:11] Acción: Pregunta 4 (Desempeño): A VECES
+[11:24:14] Acción: Pregunta 5 (Desempeño): A VECES
+[11:24:18] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:24:22] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[11:24:25] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:24:25] Respondiendo sección: Potencial
+[11:24:29] Acción: Pregunta 1 (Potencial): NUNCA
+[11:24:33] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:24:36] Acción: Pregunta 3 (Potencial): A VECES
+[11:24:40] Acción: Pregunta 4 (Potencial): NUNCA
+[11:24:44] Acción: Pregunta 5 (Potencial): RARA VEZ
+[11:24:48] Acción: Pregunta 6 (Potencial): A VECES
+[11:24:51] Acción: Pregunta 7 (Potencial): NUNCA
+[11:24:55] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:24:59] Acción: Finalizar evaluación
+[11:24:59] Evaluación finalizada para: Jose Eduardo Mar Gallegos
+[11:25:07] Cambiado a Otras evaluaciones
+[11:25:28] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:25:29] Evaluando a: Saul Alfonso Sesma Ortiz
+[11:25:29] Clic en: Comenzar evaluación
+[11:25:30] Respondiendo sección: Desempeño
+[11:25:34] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[11:25:38] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:25:41] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[11:25:45] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[11:25:48] Acción: Pregunta 5 (Desempeño): NUNCA
+[11:25:52] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:25:56] Acción: Pregunta 7 (Desempeño): A VECES
+[11:26:00] Acción: Pregunta 8 (Desempeño): RARA VEZ
+[11:26:00] Respondiendo sección: Potencial
+[11:26:03] Acción: Pregunta 1 (Potencial): A VECES
+[11:26:07] Acción: Pregunta 2 (Potencial): RARA VEZ
+[11:26:11] Acción: Pregunta 3 (Potencial): SIEMPRE
+[11:26:14] Acción: Pregunta 4 (Potencial): RARA VEZ
+[11:26:18] Acción: Pregunta 5 (Potencial): A VECES
+[11:26:22] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:26:25] Acción: Pregunta 7 (Potencial): SIEMPRE
+[11:26:29] Acción: Pregunta 8 (Potencial): A VECES
+[11:26:33] Error en acción: Finalizar evaluación -> element click intercepted: Element <span>...</span> is not clickable at point (960, 882). Other element would receive the click: <div style="display: flex; justify-content: flex-end;">...</div>
+  (Session info: chrome=145.0.7632.160)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [981bdc292369faf5fd9dbf017bc68d25, clickElement {id=f.3B4F55D230E1794B075C83D2A331384C.d.3780FD5C21F1D0AD2FFA4B3A7FD055E9.e.560}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50565}, goog:processID: 1976, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50565/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (981bdc292369faf5fd9dbf017bc68d25)] -> xpath: //*[@id="root"]/div/div/div[2]/div/main/form/div[33]/div/div/div/div/button/span]
+Session ID: 981bdc292369faf5fd9dbf017bc68d25
+[11:26:33] Evaluación finalizada para: Saul Alfonso Sesma Ortiz
+[11:26:42] Cambiado a Otras evaluaciones
+[11:27:50] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62890}, goog:processID: 1432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62890/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac7ab500a112923414cfd00b437b7b30
+[11:27:50] Inicio de sesión completado correctamente.
+[11:27:54] Modo seleccionado: 1
+[11:27:54] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:27:58] Acción: Clic en Mis evaluaciones
+[11:27:58] Cambiado a Otras evaluaciones
+[11:27:59] Evaluando a: Angel Gerardo Garcia Avila
+[11:27:59] Clic en: Comenzar evaluación
+[11:28:01] Respondiendo sección: Desempeño
+[11:28:05] Acción: Pregunta 1 (Desempeño): NUNCA
+[11:28:08] Acción: Pregunta 2 (Desempeño): NUNCA
+[11:28:12] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[11:28:16] Acción: Pregunta 4 (Desempeño): NUNCA
+[11:28:19] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[11:28:23] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:28:27] Acción: Pregunta 7 (Desempeño): A VECES
+[11:28:30] Acción: Pregunta 8 (Desempeño): NUNCA
+[11:28:30] Respondiendo sección: Potencial
+[11:28:34] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[11:28:38] Acción: Pregunta 2 (Potencial): NUNCA
+[11:28:42] Acción: Pregunta 3 (Potencial): RARA VEZ
+[11:28:45] Acción: Pregunta 4 (Potencial): A VECES
+[11:28:49] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:28:52] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:28:56] Acción: Pregunta 7 (Potencial): NUNCA
+[11:29:00] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:29:04] Acción: Finalizar evaluación
+[11:29:04] Evaluación finalizada para: Angel Gerardo Garcia Avila
+[11:29:05] Cambiado a Otras evaluaciones
+[11:29:26] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:29:27] Evaluando a: Pamela Lizeth Olivo Rodriguez
+[11:29:28] Clic en: Comenzar evaluación
+[11:29:29] Respondiendo sección: Desempeño
+[11:29:32] Acción: Pregunta 1 (Desempeño): RARA VEZ
+[11:29:36] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:29:40] Acción: Pregunta 3 (Desempeño): RARA VEZ
+[11:29:43] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:29:47] Acción: Pregunta 5 (Desempeño): A VECES
+[11:29:51] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:29:54] Acción: Pregunta 7 (Desempeño): RARA VEZ
+[11:29:58] Acción: Pregunta 8 (Desempeño): RARA VEZ
+[11:29:58] Respondiendo sección: Potencial
+[11:30:02] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[11:30:05] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:30:09] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[11:30:13] Acción: Pregunta 4 (Potencial): NUNCA
+[11:30:16] Acción: Pregunta 5 (Potencial): NUNCA
+[11:30:20] Acción: Pregunta 6 (Potencial): NUNCA
+[11:30:24] Acción: Pregunta 7 (Potencial): RARA VEZ
+[11:30:27] Acción: Pregunta 8 (Potencial): A VECES
+[11:30:31] Acción: Finalizar evaluación
+[11:30:31] Evaluación finalizada para: Pamela Lizeth Olivo Rodriguez
+[11:30:33] Cambiado a Otras evaluaciones
+[11:30:50] Error Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac7ab500a112923414cfd00b437b7b30, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62890}, goog:processID: 1432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62890/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac7ab500a112923414cfd00b437b7b30
+[11:30:50] Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac7ab500a112923414cfd00b437b7b30, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62890}, goog:processID: 1432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62890/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac7ab500a112923414cfd00b437b7b30
+[11:33:14] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64497}, goog:processID: 14156, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64497/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0baf2867636fd2e706b859a51e512708
+[11:33:14] Inicio de sesión completado correctamente.
+[11:33:17] Modo seleccionado: 1
+[11:33:17] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:33:21] Acción: Clic en Mis evaluaciones
+[11:33:21] Cambiado a Otras evaluaciones
+[11:33:27] Evaluando a: Griselda Jazmín Torres Ramírez
+[11:33:27] Clic en: Comenzar evaluación
+[11:33:28] Respondiendo sección: Desempeño
+[11:33:32] Acción: Pregunta 1 (Desempeño): NUNCA
+[11:33:36] Acción: Pregunta 2 (Desempeño): A VECES
+[11:33:39] Acción: Pregunta 3 (Desempeño): NUNCA
+[11:33:43] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:33:47] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[11:33:50] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:33:54] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:33:58] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:33:58] Respondiendo sección: Potencial
+[11:34:01] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:34:05] Acción: Pregunta 2 (Potencial): A VECES
+[11:34:09] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[11:34:12] Acción: Pregunta 4 (Potencial): NUNCA
+[11:34:16] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:34:20] Acción: Pregunta 6 (Potencial): RARA VEZ
+[11:34:23] Acción: Pregunta 7 (Potencial): A VECES
+[11:34:27] Acción: Pregunta 8 (Potencial): NUNCA
+[11:34:31] Acción: Finalizar evaluación
+[11:34:31] Evaluación finalizada para: Griselda Jazmín Torres Ramírez
+[11:34:33] Cambiado a Otras evaluaciones
+[11:34:57] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:34:58] Evaluando a: Grecia Magaly García Flores
+[11:34:59] Clic en: Comenzar evaluación
+[11:35:00] Respondiendo sección: Desempeño
+[11:35:04] Acción: Pregunta 1 (Desempeño): A VECES
+[11:35:07] Acción: Pregunta 2 (Desempeño): NUNCA
+[11:35:11] Acción: Pregunta 3 (Desempeño): A VECES
+[11:35:15] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:35:18] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[11:35:22] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:35:26] Acción: Pregunta 7 (Desempeño): NUNCA
+[11:35:29] Acción: Pregunta 8 (Desempeño): A VECES
+[11:35:29] Respondiendo sección: Potencial
+[11:35:33] Acción: Pregunta 1 (Potencial): NUNCA
+[11:35:37] Acción: Pregunta 2 (Potencial): A VECES
+[11:35:41] Acción: Pregunta 3 (Potencial): RARA VEZ
+[11:35:44] Acción: Pregunta 4 (Potencial): RARA VEZ
+[11:35:48] Acción: Pregunta 5 (Potencial): NUNCA
+[11:35:52] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:35:55] Acción: Pregunta 7 (Potencial): RARA VEZ
+[11:35:59] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:36:03] Acción: Finalizar evaluación
+[11:36:03] Evaluación finalizada para: Grecia Magaly García Flores
+[11:36:04] Cambiado a Otras evaluaciones
+[11:36:28] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:36:29] Evaluando a: Cristian Alberto De La Torre Ramirez
+[11:36:30] Clic en: Comenzar evaluación
+[11:36:31] Respondiendo sección: Desempeño
+[11:36:34] Acción: Pregunta 1 (Desempeño): A VECES
+[11:36:38] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:36:42] Acción: Pregunta 3 (Desempeño): A VECES
+[11:36:46] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:36:49] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[11:36:53] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:36:57] Acción: Pregunta 7 (Desempeño): NUNCA
+[11:37:00] Acción: Pregunta 8 (Desempeño): RARA VEZ
+[11:37:00] Respondiendo sección: Potencial
+[11:37:04] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:37:08] Acción: Pregunta 2 (Potencial): NUNCA
+[11:37:11] Acción: Pregunta 3 (Potencial): A VECES
+[11:37:15] Acción: Pregunta 4 (Potencial): NUNCA
+[11:37:19] Acción: Pregunta 5 (Potencial): A VECES
+[11:37:22] Acción: Pregunta 6 (Potencial): NUNCA
+[11:37:26] Acción: Pregunta 7 (Potencial): NUNCA
+[11:37:30] Acción: Pregunta 8 (Potencial): A VECES
+[11:37:33] Acción: Finalizar evaluación
+[11:37:33] Evaluación finalizada para: Cristian Alberto De La Torre Ramirez
+[11:37:35] Cambiado a Otras evaluaciones
+[11:38:02] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:38:03] Evaluando a: Marisol Esquivel Ordoñez
+[11:38:04] Clic en: Comenzar evaluación
+[11:38:05] Respondiendo sección: Desempeño
+[11:38:09] Acción: Pregunta 1 (Desempeño): A VECES
+[11:38:12] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:38:16] Acción: Pregunta 3 (Desempeño): RARA VEZ
+[11:38:20] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:38:23] Acción: Pregunta 5 (Desempeño): NUNCA
+[11:38:27] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:38:31] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[11:38:34] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[11:38:34] Respondiendo sección: Potencial
+[11:38:38] Acción: Pregunta 1 (Potencial): A VECES
+[11:38:42] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:38:45] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[11:38:49] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:38:53] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:38:56] Acción: Pregunta 6 (Potencial): RARA VEZ
+[11:39:00] Acción: Pregunta 7 (Potencial): A VECES
+[11:39:04] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:39:07] Acción: Finalizar evaluación
+[11:39:07] Evaluación finalizada para: Marisol Esquivel Ordoñez
+[11:39:09] Cambiado a Otras evaluaciones
+[11:39:32] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:39:33] Evaluando a: Dulce Rocio Loredo Orta
+[11:39:34] Clic en: Comenzar evaluación
+[11:39:35] Respondiendo sección: Desempeño
+[11:39:38] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:39:42] Acción: Pregunta 2 (Desempeño): A VECES
+[11:39:46] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:39:49] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[11:39:53] Acción: Pregunta 5 (Desempeño): A VECES
+[11:39:57] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:40:00] Acción: Pregunta 7 (Desempeño): RARA VEZ
+[11:40:04] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[11:40:04] Respondiendo sección: Potencial
+[11:40:08] Acción: Pregunta 1 (Potencial): RARA VEZ
+[11:40:11] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[11:40:15] Acción: Pregunta 3 (Potencial): NUNCA
+[11:40:19] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:40:22] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[11:40:26] Acción: Pregunta 6 (Potencial): SIEMPRE
+[11:40:30] Acción: Pregunta 7 (Potencial): NUNCA
+[11:40:33] Acción: Pregunta 8 (Potencial): SIEMPRE
+[11:40:37] Acción: Finalizar evaluación
+[11:40:37] Evaluación finalizada para: Dulce Rocio Loredo Orta
+[11:40:39] Cambiado a Otras evaluaciones
+[11:41:02] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:41:03] Evaluando a: Jonatan Alan Rodriguez Rodriguez
+[11:41:04] Clic en: Comenzar evaluación
+[11:41:05] Respondiendo sección: Desempeño
+[11:41:08] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:41:12] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:41:16] Acción: Pregunta 3 (Desempeño): NUNCA
+[11:41:19] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:41:23] Acción: Pregunta 5 (Desempeño): NUNCA
+[11:41:27] Acción: Pregunta 6 (Desempeño): A VECES
+[11:41:31] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:41:34] Acción: Pregunta 8 (Desempeño): RARA VEZ
+[11:41:34] Respondiendo sección: Potencial
+[11:41:38] Acción: Pregunta 1 (Potencial): A VECES
+[11:41:42] Acción: Pregunta 2 (Potencial): NUNCA
+[11:41:45] Acción: Pregunta 3 (Potencial): NUNCA
+[11:41:49] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:41:53] Acción: Pregunta 5 (Potencial): A VECES
+[11:41:56] Acción: Pregunta 6 (Potencial): SIEMPRE
+[11:42:00] Acción: Pregunta 7 (Potencial): A VECES
+[11:42:04] Acción: Pregunta 8 (Potencial): RARA VEZ
+[11:42:07] Acción: Finalizar evaluación
+[11:42:07] Evaluación finalizada para: Jonatan Alan Rodriguez Rodriguez
+[11:42:09] Cambiado a Otras evaluaciones
+[11:42:32] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:42:33] Evaluando a: Edgar Alejandro Aramburu Collazo
+[11:42:34] Clic en: Comenzar evaluación
+[11:42:35] Respondiendo sección: Desempeño
+[11:42:39] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:42:42] Acción: Pregunta 2 (Desempeño): RARA VEZ
+[11:42:46] Acción: Pregunta 3 (Desempeño): NUNCA
+[11:42:50] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:42:53] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[11:42:57] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:43:01] Acción: Pregunta 7 (Desempeño): A VECES
+[11:43:05] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:43:05] Respondiendo sección: Potencial
+[11:43:08] Acción: Pregunta 1 (Potencial): RARA VEZ
+[11:43:12] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[11:43:16] Acción: Pregunta 3 (Potencial): NUNCA
+[11:43:19] Acción: Pregunta 4 (Potencial): RARA VEZ
+[11:43:23] Acción: Pregunta 5 (Potencial): A VECES
+[11:43:27] Acción: Pregunta 6 (Potencial): SIEMPRE
+[11:43:30] Acción: Pregunta 7 (Potencial): SIEMPRE
+[11:43:34] Acción: Pregunta 8 (Potencial): NUNCA
+[11:43:38] Acción: Finalizar evaluación
+[11:43:38] Evaluación finalizada para: Edgar Alejandro Aramburu Collazo
+[11:43:39] Cambiado a Otras evaluaciones
+[11:44:03] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:44:04] Evaluando a: Rodrigo Hernandez Garcia
+[11:44:04] Clic en: Comenzar evaluación
+[11:44:05] Respondiendo sección: Desempeño
+[11:44:09] Acción: Pregunta 1 (Desempeño): RARA VEZ
+[11:44:13] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:44:16] Acción: Pregunta 3 (Desempeño): RARA VEZ
+[11:44:20] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[11:44:24] Acción: Pregunta 5 (Desempeño): A VECES
+[11:44:27] Acción: Pregunta 6 (Desempeño): RARA VEZ
+[11:44:31] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[11:44:35] Acción: Pregunta 8 (Desempeño): NUNCA
+[11:44:35] Respondiendo sección: Potencial
+[11:44:38] Acción: Pregunta 1 (Potencial): NUNCA
+[11:44:42] Acción: Pregunta 2 (Potencial): NUNCA
+[11:44:46] Acción: Pregunta 3 (Potencial): NUNCA
+[11:44:49] Acción: Pregunta 4 (Potencial): A VECES
+[11:44:53] Acción: Pregunta 5 (Potencial): A VECES
+[11:44:57] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:45:00] Acción: Pregunta 7 (Potencial): NUNCA
+[11:45:04] Acción: Pregunta 8 (Potencial): SIEMPRE
+[11:45:08] Acción: Finalizar evaluación
+[11:45:08] Evaluación finalizada para: Rodrigo Hernandez Garcia
+[11:45:10] Cambiado a Otras evaluaciones
+[11:45:32] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:45:33] Evaluando a: David Alejandro Monreal Vazquez
+[11:45:34] Clic en: Comenzar evaluación
+[11:45:35] Respondiendo sección: Desempeño
+[11:45:39] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:45:42] Acción: Pregunta 2 (Desempeño): A VECES
+[11:45:46] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:45:50] Acción: Pregunta 4 (Desempeño): NUNCA
+[11:45:53] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[11:45:57] Acción: Pregunta 6 (Desempeño): NUNCA
+[11:46:01] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[11:46:04] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:46:04] Respondiendo sección: Potencial
+[11:46:08] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:46:12] Acción: Pregunta 2 (Potencial): NUNCA
+[11:46:15] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[11:46:19] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:46:23] Acción: Pregunta 5 (Potencial): RARA VEZ
+[11:46:27] Acción: Pregunta 6 (Potencial): A VECES
+[11:46:30] Acción: Pregunta 7 (Potencial): NUNCA
+[11:46:34] Acción: Pregunta 8 (Potencial): SIEMPRE
+[11:46:38] Acción: Finalizar evaluación
+[11:46:38] Evaluación finalizada para: David Alejandro Monreal Vazquez
+[11:46:39] Cambiado a Otras evaluaciones
+[11:47:02] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:47:03] Evaluando a: Nazul Bonfilio Merino Negrete
+[11:47:03] Clic en: Comenzar evaluación
+[11:47:05] Respondiendo sección: Desempeño
+[11:47:08] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:47:12] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:47:16] Acción: Pregunta 3 (Desempeño): A VECES
+[11:47:19] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:47:23] Acción: Pregunta 5 (Desempeño): A VECES
+[11:47:27] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:47:30] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[11:47:34] Acción: Pregunta 8 (Desempeño): RARA VEZ
+[11:47:34] Respondiendo sección: Potencial
+[11:47:38] Acción: Pregunta 1 (Potencial): NUNCA
+[11:47:41] Acción: Pregunta 2 (Potencial): A VECES
+[11:47:45] Acción: Pregunta 3 (Potencial): RARA VEZ
+[11:47:49] Acción: Pregunta 4 (Potencial): A VECES
+[11:47:53] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:47:56] Acción: Pregunta 6 (Potencial): RARA VEZ
+[11:48:00] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:48:04] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:48:07] Acción: Finalizar evaluación
+[11:48:07] Evaluación finalizada para: Nazul Bonfilio Merino Negrete
+[11:48:09] Cambiado a Otras evaluaciones
+[11:48:31] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:48:32] Evaluando a: Rogelio Gamez Hernández
+[11:48:32] Clic en: Comenzar evaluación
+[11:48:34] Respondiendo sección: Desempeño
+[11:48:37] Acción: Pregunta 1 (Desempeño): RARA VEZ
+[11:48:41] Acción: Pregunta 2 (Desempeño): RARA VEZ
+[11:48:45] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:48:48] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[11:48:52] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[11:48:56] Acción: Pregunta 6 (Desempeño): RARA VEZ
+[11:48:59] Acción: Pregunta 7 (Desempeño): A VECES
+[11:49:03] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[11:49:03] Respondiendo sección: Potencial
+[11:49:07] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[11:49:10] Acción: Pregunta 2 (Potencial): A VECES
+[11:49:14] Acción: Pregunta 3 (Potencial): SIEMPRE
+[11:49:18] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:49:22] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[11:49:25] Acción: Pregunta 6 (Potencial): NUNCA
+[11:49:29] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:49:33] Acción: Pregunta 8 (Potencial): A VECES
+[11:49:37] Acción: Finalizar evaluación
+[11:49:37] Evaluación finalizada para: Rogelio Gamez Hernández
+[11:49:38] Cambiado a Otras evaluaciones
+[11:50:00] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:50:01] Evaluando a: Jesús Omar Anguiano Rosas
+[11:50:02] Clic en: Comenzar evaluación
+[11:50:03] Respondiendo sección: Desempeño
+[11:50:07] Acción: Pregunta 1 (Desempeño): RARA VEZ
+[11:50:10] Acción: Pregunta 2 (Desempeño): A VECES
+[11:50:14] Acción: Pregunta 3 (Desempeño): NUNCA
+[11:50:18] Acción: Pregunta 4 (Desempeño): NUNCA
+[11:50:22] Acción: Pregunta 5 (Desempeño): A VECES
+[11:50:25] Acción: Pregunta 6 (Desempeño): RARA VEZ
+[11:50:29] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:50:33] Acción: Pregunta 8 (Desempeño): A VECES
+[11:50:33] Respondiendo sección: Potencial
+[11:50:36] Acción: Pregunta 1 (Potencial): A VECES
+[11:50:40] Acción: Pregunta 2 (Potencial): A VECES
+[11:50:44] Acción: Pregunta 3 (Potencial): RARA VEZ
+[11:50:47] Acción: Pregunta 4 (Potencial): A VECES
+[11:50:51] Acción: Pregunta 5 (Potencial): RARA VEZ
+[11:50:54] Acción: Pregunta 6 (Potencial): A VECES
+[11:50:58] Acción: Pregunta 7 (Potencial): RARA VEZ
+[11:51:02] Acción: Pregunta 8 (Potencial): NUNCA
+[11:51:06] Acción: Finalizar evaluación
+[11:51:06] Evaluación finalizada para: Jesús Omar Anguiano Rosas
+[11:51:07] Cambiado a Otras evaluaciones
+[11:51:29] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:51:31] Evaluando a: Adriana Marisol Arvizu Sanchez
+[11:51:31] Clic en: Comenzar evaluación
+[11:51:32] Respondiendo sección: Desempeño
+[11:51:36] Acción: Pregunta 1 (Desempeño): NUNCA
+[11:51:40] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:51:43] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:51:47] Acción: Pregunta 4 (Desempeño): NUNCA
+[11:51:50] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[11:51:54] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:51:58] Acción: Pregunta 7 (Desempeño): NUNCA
+[11:52:01] Acción: Pregunta 8 (Desempeño): NUNCA
+[11:52:01] Respondiendo sección: Potencial
+[11:52:05] Acción: Pregunta 1 (Potencial): RARA VEZ
+[11:52:09] Acción: Pregunta 2 (Potencial): RARA VEZ
+[11:52:12] Acción: Pregunta 3 (Potencial): A VECES
+[11:52:16] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[11:52:19] Acción: Pregunta 5 (Potencial): RARA VEZ
+[11:52:23] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:52:27] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:52:30] Acción: Pregunta 8 (Potencial): NUNCA
+[11:52:34] Acción: Finalizar evaluación
+[11:52:34] Evaluación finalizada para: Adriana Marisol Arvizu Sanchez
+[11:52:36] Cambiado a Otras evaluaciones
+[11:52:57] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:52:58] Evaluando a: David Alejandro Cabrera Medina
+[11:52:59] Clic en: Comenzar evaluación
+[11:53:00] Respondiendo sección: Desempeño
+[11:53:04] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[11:53:07] Acción: Pregunta 2 (Desempeño): RARA VEZ
+[11:53:11] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:53:15] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:53:18] Acción: Pregunta 5 (Desempeño): NUNCA
+[11:53:22] Acción: Pregunta 6 (Desempeño): A VECES
+[11:53:26] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:53:30] Acción: Pregunta 8 (Desempeño): A VECES
+[11:53:30] Respondiendo sección: Potencial
+[11:53:33] Acción: Pregunta 1 (Potencial): A VECES
+[11:53:37] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[11:53:41] Acción: Pregunta 3 (Potencial): SIEMPRE
+[11:53:44] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[11:53:48] Acción: Pregunta 5 (Potencial): NUNCA
+[11:53:51] Acción: Pregunta 6 (Potencial): A VECES
+[11:53:55] Acción: Pregunta 7 (Potencial): RARA VEZ
+[11:53:59] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:54:03] Acción: Finalizar evaluación
+[11:54:03] Evaluación finalizada para: David Alejandro Cabrera Medina
+[11:54:04] Cambiado a Otras evaluaciones
+[11:54:26] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:54:27] Evaluando a: Angel Nathanael Gomez Rodriguez
+[11:54:27] Clic en: Comenzar evaluación
+[11:54:29] Respondiendo sección: Desempeño
+[11:54:32] Acción: Pregunta 1 (Desempeño): RARA VEZ
+[11:54:36] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:54:40] Acción: Pregunta 3 (Desempeño): A VECES
+[11:54:44] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[11:54:47] Acción: Pregunta 5 (Desempeño): A VECES
+[11:54:51] Acción: Pregunta 6 (Desempeño): A VECES
+[11:54:55] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:54:58] Acción: Pregunta 8 (Desempeño): NUNCA
+[11:54:58] Respondiendo sección: Potencial
+[11:55:02] Acción: Pregunta 1 (Potencial): RARA VEZ
+[11:55:06] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[11:55:09] Acción: Pregunta 3 (Potencial): NUNCA
+[11:55:13] Acción: Pregunta 4 (Potencial): NUNCA
+[11:55:17] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[11:55:21] Acción: Pregunta 6 (Potencial): NUNCA
+[11:55:24] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:55:28] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:55:32] Acción: Finalizar evaluación
+[11:55:32] Evaluación finalizada para: Angel Nathanael Gomez Rodriguez
+[11:55:33] Cambiado a Otras evaluaciones
+[12:00:56] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57119}, goog:processID: 14296, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57119/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7579ad96737662b1a76b578885ab0e01
+[12:00:56] Inicio de sesión completado correctamente.
+[12:01:24] Modo seleccionado: 1
+[12:01:24] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[12:01:25] Clic en Mis evaluaciones
+[12:01:26] Cambiado a Otras evaluaciones
+[12:01:28] Evaluando a: Luis Berthol Castillo Del Rio
+[12:01:28] Clic en: Comenzar evaluación
+[12:01:30] Respondiendo sección: Desempeño
+[12:01:50] No se pudo procesar la sección Desempeño: Expected condition failed: waiting for presence of element located by: By.xpath: //*[normalize-space()='Desempeño'] (tried for 20 second(s) with 500 milliseconds interval)
+[12:01:50] Respondiendo sección: Potencial
+[12:04:47] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:04:47] Inicio de sesión completado correctamente.
+[12:05:01] Modo seleccionado: 1
+[12:05:01] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[12:05:02] Clic en Mis evaluaciones
+[12:05:03] Cambiado a Otras evaluaciones
+[12:05:05] Evaluando a: Luis Berthol Castillo Del Rio
+[12:05:06] Clic en: Comenzar evaluación
+[12:05:07] Respondiendo sección: 1.- Desempeño
+[12:05:08] Pregunta 1 (1.- Desempeño): SIEMPRE
+[12:05:09] Pregunta 2 (1.- Desempeño): RARA VEZ
+[12:05:09] Pregunta 3 (1.- Desempeño): A VECES
+[12:05:09] Pregunta 4 (1.- Desempeño): A VECES
+[12:05:10] Pregunta 5 (1.- Desempeño): A VECES
+[12:05:10] Pregunta 6 (1.- Desempeño): A VECES
+[12:05:10] Pregunta 7 (1.- Desempeño): FRECUENTEMENTE
+[12:05:11] Pregunta 8 (1.- Desempeño): FRECUENTEMENTE
+[12:05:11] Pregunta 9 (1.- Desempeño): A VECES
+[12:05:11] Pregunta 10 (1.- Desempeño): SIEMPRE
+[12:05:12] Pregunta 11 (1.- Desempeño): FRECUENTEMENTE
+[12:05:12] Pregunta 12 (1.- Desempeño): FRECUENTEMENTE
+[12:05:13] Pregunta 13 (1.- Desempeño): FRECUENTEMENTE
+[12:05:13] Pregunta 14 (1.- Desempeño): RARA VEZ
+[12:05:13] Pregunta 15 (1.- Desempeño): FRECUENTEMENTE
+[12:05:14] Pregunta 16 (1.- Desempeño): A VECES
+[12:05:14] Respondiendo sección: 2.- Potencial
+[12:05:14] Pregunta 1 (2.- Potencial): A VECES
+[12:05:34] No se encontraron opciones en la pregunta 2 de 2.- Potencial
+[12:05:35] Pregunta 3 (2.- Potencial): SIEMPRE
+[12:05:41] No se pudo responder pregunta 4 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.350}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:41] No se pudo responder pregunta 5 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.156}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:41] No se pudo responder pregunta 6 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.351}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:41] No se pudo responder pregunta 7 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.157}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:41] No se pudo responder pregunta 8 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.352}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:41] No se pudo responder pregunta 9 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.158}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 10 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.353}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 11 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.159}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 12 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.354}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 13 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.160}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 14 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.355}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 15 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.161}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 16 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.356}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 17 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.162}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 18 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.357}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 19 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.163}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 20 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.358}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 21 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.164}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 22 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.359}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 23 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.165}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 24 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.360}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 25 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.166}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 26 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.361}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 27 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.167}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 28 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.362}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 29 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.168}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 30 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.363}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:05:42] No se pudo responder pregunta 31 de 2.- Potencial: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b8ab0d89a5beeadb3e64e9346fc4a1b5, findChildElements {using=xpath, value=.//label, id=f.4820D16CB8C431C7A64DC0760CAB1AA3.d.D86676C487F5272E4644A3BD98CA75AA.e.169}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52748}, goog:processID: 17212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52748/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b8ab0d89a5beeadb3e64e9346fc4a1b5
+[12:21:12] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56112}, goog:processID: 1996, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56112/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 23d6848f3784381376746d85cdff5a32
+[12:21:12] Inicio de sesión completado correctamente.
+[12:21:20] Modo seleccionado: 1
+[12:21:20] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[12:21:21] Clic en Mis evaluaciones
+[12:21:21] Cambiado a Otras evaluaciones
+[12:21:23] Evaluando a: Sebastian Carrillo Liñan
+[12:21:24] Clic en: Comenzar evaluación
+[12:21:25] Respondiendo sección: 1.- Desempeño
+[12:21:25] Pregunta 1 (1.- Desempeño): SIEMPRE
+[12:21:27] Pregunta 2 (1.- Desempeño): RARA VEZ
+[12:21:28] Pregunta 3 (1.- Desempeño): SIEMPRE
+[12:21:29] Pregunta 4 (1.- Desempeño): NUNCA
+[12:21:30] Pregunta 5 (1.- Desempeño): RARA VEZ
+[12:21:31] Pregunta 6 (1.- Desempeño): SIEMPRE
+[12:21:32] Pregunta 7 (1.- Desempeño): RARA VEZ
+[12:21:34] Pregunta 8 (1.- Desempeño): RARA VEZ
+[12:21:35] Pregunta 9 (1.- Desempeño): SIEMPRE
+[12:21:36] Pregunta 10 (1.- Desempeño): NUNCA
+[12:21:37] Pregunta 11 (1.- Desempeño): SIEMPRE
+[12:21:38] Pregunta 12 (1.- Desempeño): RARA VEZ
+[12:21:39] Pregunta 13 (1.- Desempeño): RARA VEZ
+[12:21:40] Pregunta 14 (1.- Desempeño): SIEMPRE
+[12:21:42] Pregunta 15 (1.- Desempeño): FRECUENTEMENTE
+[12:21:43] Pregunta 16 (1.- Desempeño): NUNCA
+[12:21:43] Respondiendo sección: 2.- Potencial
+[12:21:44] Pregunta 1 (2.- Potencial): NUNCA
+[12:22:05] No se encontraron opciones en la pregunta 2 de 2.- Potencial
+[12:22:05] Pregunta 3 (2.- Potencial): SIEMPRE
+[12:22:26] No se encontraron opciones en la pregunta 4 de 2.- Potencial
+[12:22:26] Pregunta 5 (2.- Potencial): A VECES
+[12:31:57] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55344}, goog:processID: 13408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55344/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f65251bb29731f77b09be9f18058e790
+[12:31:57] Inicio de sesión completado correctamente.
+[12:32:13] Modo seleccionado: 1
+[12:32:13] Iniciando módulo: Evaluación NineBox
+[12:32:13] Clic en Mis evaluaciones
+[12:32:14] Cambiado a Otras evaluaciones
+[12:32:16] Evaluando a: Sebastian Carrillo Liñan
+[12:32:17] Clic en Comenzar evaluación
+[12:32:18] Respondiendo sección: 1.- Desempeño
+[12:32:19] Pregunta 1 (1.- Desempeño): SIEMPRE
+[12:32:20] Pregunta 2 (1.- Desempeño): NUNCA
+[12:32:21] Pregunta 3 (1.- Desempeño): A VECES
+[12:32:22] Pregunta 4 (1.- Desempeño): FRECUENTEMENTE
+[12:32:23] Pregunta 5 (1.- Desempeño): NUNCA
+[12:32:24] Pregunta 6 (1.- Desempeño): RARA VEZ
+[12:32:26] Pregunta 7 (1.- Desempeño): RARA VEZ
+[12:32:27] Pregunta 8 (1.- Desempeño): A VECES
+[12:32:27] Respondiendo sección: 2.- Potencial
+[12:32:28] Pregunta 1 (2.- Potencial): NUNCA
+[12:32:45] No se pudo responder pregunta 2 de 2.- Potencial
+[12:32:45] No se pudo responder pregunta 3 de 2.- Potencial
+[12:32:45] No se pudo responder pregunta 4 de 2.- Potencial
+[12:32:45] No se pudo responder pregunta 5 de 2.- Potencial
+[12:32:45] No se pudo responder pregunta 6 de 2.- Potencial
+[12:32:45] No se pudo responder pregunta 7 de 2.- Potencial
+[12:32:45] No se pudo responder pregunta 8 de 2.- Potencial
+[12:33:34] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52507}, goog:processID: 14048, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52507/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a52b06f2ad733955ca29a13420facb92
+[12:33:34] Inicio de sesión completado correctamente.
+[12:33:39] Modo seleccionado: 1
+[12:33:39] Iniciando módulo: Evaluación NineBox
+[12:33:39] Clic en Mis evaluaciones
+[12:33:40] Cambiado a Otras evaluaciones
+[12:33:42] Evaluando a: Kathia Valeria Gamez Ortiz
+[12:33:43] Clic en Comenzar evaluación
+[12:33:44] Respondiendo sección: 1.- Desempeño
+[12:33:44] Pregunta 1 (1.- Desempeño): RARA VEZ
+[12:33:46] Pregunta 2 (1.- Desempeño): SIEMPRE
+[12:33:47] Pregunta 3 (1.- Desempeño): SIEMPRE
+[12:33:48] Pregunta 4 (1.- Desempeño): RARA VEZ
+[12:33:49] Pregunta 5 (1.- Desempeño): A VECES
+[12:33:50] Pregunta 6 (1.- Desempeño): RARA VEZ
+[12:33:51] Pregunta 7 (1.- Desempeño): RARA VEZ
+[12:33:52] Pregunta 8 (1.- Desempeño): RARA VEZ
+[12:33:53] Respondiendo sección: 2.- Potencial
+[12:33:54] Pregunta 1 (2.- Potencial): RARA VEZ
+[12:42:56] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49985}, goog:processID: 9892, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49985/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0f7011f60be0b6c9ba5ca335a5f4e51
+[12:42:56] Inicio de sesión completado correctamente.
+[12:43:03] Modo seleccionado: 1
+[12:43:03] Iniciando módulo: Evaluación NineBox
+[12:43:03] Clic en Mis evaluaciones
+[12:43:04] Cambiado a Otras evaluaciones
+[12:43:06] Evaluando a: Kathia Valeria Gamez Ortiz
+[12:43:07] Clic en Comenzar evaluación
+[12:43:08] Respondiendo preguntas del formulario NineBox
+[12:43:08] Pregunta 1: A VECES
+[12:43:09] Pregunta 2: NUNCA
+[12:43:10] Pregunta 3: NUNCA
+[12:43:12] Pregunta 4: RARA VEZ
+[12:43:13] Pregunta 5: SIEMPRE
+[12:43:14] Pregunta 6: A VECES
+[12:43:15] Pregunta 7: NUNCA
+[12:43:16] Pregunta 8: SIEMPRE
+[12:43:17] Pregunta 9: SIEMPRE
+[12:43:18] Pregunta 10: NUNCA
+[12:43:20] Pregunta 11: NUNCA
+[12:43:21] Pregunta 12: RARA VEZ
+[12:43:22] Pregunta 13: FRECUENTEMENTE
+[12:43:23] Pregunta 14: SIEMPRE
+[12:43:24] Pregunta 15: NUNCA
+[12:43:25] Pregunta 16: NUNCA
+[12:43:26] Finalizar evaluación
+[12:43:26] Evaluación finalizada para: Kathia Valeria Gamez Ortiz
+[12:43:28] Cambiado a Otras evaluaciones
+[12:43:49] Fila eliminada en Otras evaluaciones
+[12:43:50] Evaluando a: Paulina Itzel del Carmen Hernandez Ramos
+[12:43:51] Clic en Comenzar evaluación
+[12:43:52] Respondiendo preguntas del formulario NineBox
+[12:43:52] Pregunta 1: FRECUENTEMENTE
+[12:43:54] Pregunta 2: A VECES
+[12:43:55] Pregunta 3: SIEMPRE
+[12:43:56] Pregunta 4: A VECES
+[12:43:57] Pregunta 5: SIEMPRE
+[12:43:58] Pregunta 6: NUNCA
+[12:43:59] Pregunta 7: NUNCA
+[12:44:00] Pregunta 8: SIEMPRE
+[12:44:02] Pregunta 9: NUNCA
+[12:44:03] Pregunta 10: FRECUENTEMENTE
+[12:44:04] Pregunta 11: NUNCA
+[12:44:05] Pregunta 12: NUNCA
+[12:44:06] Pregunta 13: A VECES
+[12:44:07] Pregunta 14: FRECUENTEMENTE
+[12:44:08] Pregunta 15: NUNCA
+[12:44:10] Pregunta 16: SIEMPRE
+[12:44:11] Finalizar evaluación
+[12:44:11] Evaluación finalizada para: Paulina Itzel del Carmen Hernandez Ramos
+[12:44:13] Cambiado a Otras evaluaciones
+[12:44:34] Fila eliminada en Otras evaluaciones
+[12:44:35] Evaluando a: Alfonso Sesma Diaz
+[12:44:35] Clic en Comenzar evaluación
+[12:44:36] Respondiendo preguntas del formulario NineBox
+[12:44:37] Pregunta 1: NUNCA
+[12:44:38] Pregunta 2: NUNCA
+[12:44:39] Pregunta 3: RARA VEZ
+[12:44:40] Pregunta 4: FRECUENTEMENTE
+[12:44:41] Pregunta 5: FRECUENTEMENTE
+[12:44:43] Pregunta 6: FRECUENTEMENTE
+[12:44:44] Pregunta 7: A VECES
+[12:44:45] Pregunta 8: A VECES
+[12:44:46] Pregunta 9: SIEMPRE
+[12:44:47] Pregunta 10: RARA VEZ
+[12:44:48] Pregunta 11: RARA VEZ
+[12:44:49] Pregunta 12: RARA VEZ
+[12:44:51] Pregunta 13: SIEMPRE
+[12:44:52] Pregunta 14: RARA VEZ
+[12:44:53] Pregunta 15: NUNCA
+[12:44:54] Pregunta 16: SIEMPRE
+[12:44:55] Finalizar evaluación
+[12:44:55] Evaluación finalizada para: Alfonso Sesma Diaz
+[12:44:57] Cambiado a Otras evaluaciones
+[12:48:31] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54303}, goog:processID: 6016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54303/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e0ca7a8e3aaa6d985cea2110d77c1f98
+[12:48:31] Inicio de sesión completado correctamente.
+[12:48:37] Modo seleccionado: 1
+[12:48:37] Iniciando módulo: Evaluación NineBox
+[12:48:38] Clic en Mis evaluaciones
+[12:48:39] Cambiado a Otras evaluaciones
+[12:48:41] Evaluando a: Jeneffer Stephane Hernandez Cuevas
+[12:48:42] Clic en Comenzar evaluación
+[12:48:43] Respondiendo preguntas del formulario NineBox
+[12:48:44] Pregunta 1: A VECES
+[12:48:45] Pregunta 2: FRECUENTEMENTE
+[12:48:46] Pregunta 3: RARA VEZ
+[12:48:47] Pregunta 4: A VECES
+[12:48:48] Pregunta 5: NUNCA
+[12:48:49] Pregunta 6: FRECUENTEMENTE
+[12:48:51] Pregunta 7: RARA VEZ
+[12:48:52] Pregunta 8: RARA VEZ
+[12:48:53] Pregunta 9: NUNCA
+[12:48:54] Pregunta 10: A VECES
+[12:48:55] Pregunta 11: SIEMPRE
+[12:48:56] Pregunta 12: FRECUENTEMENTE
+[12:48:57] Pregunta 13: FRECUENTEMENTE
+[12:48:59] Pregunta 14: SIEMPRE
+[12:49:00] Pregunta 15: RARA VEZ
+[12:49:01] Pregunta 16: RARA VEZ
+[12:49:02] Finalizar evaluación
+[12:49:02] Evaluación finalizada para: Jeneffer Stephane Hernandez Cuevas
+[12:49:04] Cambiado a Otras evaluaciones
+[12:49:26] Fila eliminada en Otras evaluaciones
+[12:49:27] Evaluando a: Luis Eduardo Cardona Becerra
+[12:49:28] Clic en Comenzar evaluación
+[12:49:29] Respondiendo preguntas del formulario NineBox
+[12:49:29] Pregunta 1: RARA VEZ
+[12:49:30] Pregunta 2: A VECES
+[12:49:31] Pregunta 3: A VECES
+[12:49:33] Pregunta 4: A VECES
+[12:49:34] Pregunta 5: SIEMPRE
+[12:49:35] Pregunta 6: FRECUENTEMENTE
+[12:49:36] Pregunta 7: RARA VEZ
+[12:49:37] Pregunta 8: NUNCA
+[12:49:38] Pregunta 9: NUNCA
+[12:49:40] Pregunta 10: RARA VEZ
+[12:49:41] Pregunta 11: A VECES
+[12:49:42] Pregunta 12: SIEMPRE
+[12:49:43] Pregunta 13: FRECUENTEMENTE
+[12:49:44] Pregunta 14: A VECES
+[12:49:45] Pregunta 15: NUNCA
+[12:49:47] Pregunta 16: A VECES
+[12:49:48] Finalizar evaluación
+[12:49:48] Evaluación finalizada para: Luis Eduardo Cardona Becerra
+[12:49:49] Cambiado a Otras evaluaciones
+[12:50:12] Fila eliminada en Otras evaluaciones
+[12:50:13] Evaluando a: Samantha Minue Diaz Camacho
+[12:50:13] Clic en Comenzar evaluación
+[12:50:14] Respondiendo preguntas del formulario NineBox
+[12:50:15] Pregunta 1: SIEMPRE
+[12:50:16] Pregunta 2: A VECES
+[12:50:17] Pregunta 3: SIEMPRE
+[12:50:18] Pregunta 4: A VECES
+[12:50:19] Pregunta 5: FRECUENTEMENTE
+[12:50:21] Pregunta 6: RARA VEZ
+[12:50:22] Pregunta 7: SIEMPRE
+[12:50:23] Pregunta 8: RARA VEZ
+[12:50:24] Pregunta 9: FRECUENTEMENTE
+[12:50:25] Pregunta 10: SIEMPRE
+[12:50:26] Pregunta 11: RARA VEZ
+[12:50:28] Pregunta 12: RARA VEZ
+[12:50:29] Pregunta 13: NUNCA
+[12:50:30] Pregunta 14: RARA VEZ
+[12:50:31] Pregunta 15: FRECUENTEMENTE
+[12:50:32] Pregunta 16: A VECES
+[12:50:33] Finalizar evaluación
+[12:50:33] Evaluación finalizada para: Samantha Minue Diaz Camacho
+[12:50:35] Cambiado a Otras evaluaciones
+[12:50:57] Fila eliminada en Otras evaluaciones
+[12:50:58] Evaluando a: Ana Lucia Coronado Tristan
+[12:50:59] Clic en Comenzar evaluación
+[12:51:00] Respondiendo preguntas del formulario NineBox
+[12:51:00] Pregunta 1: NUNCA
+[12:51:02] Pregunta 2: FRECUENTEMENTE
+[12:51:03] Pregunta 3: SIEMPRE
+[12:51:04] Pregunta 4: A VECES
+[12:51:05] Pregunta 5: FRECUENTEMENTE
+[12:51:06] Pregunta 6: SIEMPRE
+[12:51:07] Pregunta 7: FRECUENTEMENTE
+[12:51:08] Pregunta 8: FRECUENTEMENTE
+[12:51:09] Pregunta 9: SIEMPRE
+[12:51:11] Pregunta 10: A VECES
+[12:51:12] Pregunta 11: NUNCA
+[12:51:13] Pregunta 12: SIEMPRE
+[12:51:14] Pregunta 13: NUNCA
+[12:51:15] Pregunta 14: SIEMPRE
+[12:51:16] Pregunta 15: NUNCA
+[12:51:18] Pregunta 16: FRECUENTEMENTE
+[12:51:19] Finalizar evaluación
+[12:51:19] Evaluación finalizada para: Ana Lucia Coronado Tristan
+[12:51:21] Cambiado a Otras evaluaciones
+[12:51:42] Fila eliminada en Otras evaluaciones
+[12:51:43] Evaluando a: Jesus Martinez Navarro
+[12:51:44] Clic en Comenzar evaluación
+[12:51:45] Respondiendo preguntas del formulario NineBox
+[12:51:45] Pregunta 1: NUNCA
+[12:51:46] Pregunta 2: SIEMPRE
+[12:51:48] Pregunta 3: A VECES
+[12:51:49] Pregunta 4: A VECES
+[12:51:50] Pregunta 5: SIEMPRE
+[12:51:51] Pregunta 6: FRECUENTEMENTE
+[12:51:52] Pregunta 7: RARA VEZ
+[12:51:53] Pregunta 8: SIEMPRE
+[12:51:55] Pregunta 9: SIEMPRE
+[12:51:56] Pregunta 10: FRECUENTEMENTE
+[12:51:57] Pregunta 11: FRECUENTEMENTE
+[12:51:58] Pregunta 12: SIEMPRE
+[12:51:59] Pregunta 13: RARA VEZ
+[12:52:00] Pregunta 14: RARA VEZ
+[12:52:01] Pregunta 15: SIEMPRE
+[12:52:03] Pregunta 16: NUNCA
+[12:52:04] Finalizar evaluación
+[12:52:04] Evaluación finalizada para: Jesus Martinez Navarro
+[12:52:05] Cambiado a Otras evaluaciones
+[12:52:23] Error en NineBox: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0ca7a8e3aaa6d985cea2110d77c1f98, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54303}, goog:processID: 6016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54303/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e0ca7a8e3aaa6d985cea2110d77c1f98
+[12:52:23] Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0ca7a8e3aaa6d985cea2110d77c1f98, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54303}, goog:processID: 6016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54303/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e0ca7a8e3aaa6d985cea2110d77c1f98

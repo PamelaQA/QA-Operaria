@@ -1,0 +1,29 @@
+[14:23:50] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61391}, goog:processID: 4328, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61391/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 787932ef78db881df595ffd6f703d6cc
+[14:23:50] Inicio de sesión completado correctamente.
+[14:23:50] Ejecutando módulo: Preguntas
+[14:23:55] Acción: Clic en Gestion de evaluaciones
+[14:23:58] Acción: Agregar nueva pregunta
+[14:24:02] Acción: Desplegando listado
+[14:24:06] Acción: Pregunta abierta
+[14:24:12] Acción: Pregunta 2 - Texto: Pregunta automatizada abierta 2
+[14:24:18] Acción: Pregunta 2 - Texto: Pregunta automatizada abierta 2
+[14:25:22] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53348}, goog:processID: 17396, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53348/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7fa810a84013a8ba5190f9a06412fcba
+[14:25:22] Inicio de sesión completado correctamente.
+[14:25:22] Ejecutando módulo: Preguntas
+[14:25:26] Acción: Clic en Gestion de evaluaciones
+[14:25:30] Acción: Agregar nueva pregunta
+[14:25:34] Acción: Desplegando listado
+[14:25:38] Acción: Pregunta Abierta numérica
+[14:25:45] Acción: Pregunta 2 - Texto: Pregunta automatizada abierta numerica
+[14:25:52] Acción: Pregunta 2 - Texto: Pregunta automatizada abierta numerica
+[14:25:55] Acción: Desplegando formula

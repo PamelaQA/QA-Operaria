@@ -1,0 +1,21 @@
+{
+  "evaluaciones": {
+    "nombre": "Evaluación actualizada automáticamente",
+    "descripcion": "Evaluación editada por bot QA",
+    "tipo": "Cualitativa"
+  },
+  "secciones": {
+    "nombre": "Sección modificada de prueba",
+    "identificador": "Sec-Test-Edit",
+    "instrucciones": "Actualizadas para revisión del flujo."
+  },
+  "retroalimentacion": {
+    "nombre": "Retroalimentación corregida",
+    "tipo": "Campo de comentarios",
+    "responsable": "RRHH"
+  },
+  "preguntas": {
+    "titulo": "Pregunta revisada automáticamente",
+    "respuesta": "Respuesta de prueba editada"
+  }
+}

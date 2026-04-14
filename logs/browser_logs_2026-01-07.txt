@@ -1,0 +1,22 @@
+[Wed Jan 07 12:23:47 CST 2026] [WARNING] https://demo.operaria.co/login - <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+[Wed Jan 07 12:23:54 CST 2026] [SEVERE] https://demo.operaria.co/Dashboard - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Wed Jan 07 12:23:54 CST 2026] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Wed Jan 07 12:23:55 CST 2026] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Wed Jan 07 12:23:55 CST 2026] [SEVERE] https://demo.operaria.co/assets/index-DiLqCSGN.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Wed Jan 07 12:23:55 CST 2026] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Wed Jan 07 12:23:55 CST 2026] [SEVERE] https://demo.operaria.co/assets/index-DiLqCSGN.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Wed Jan 07 12:24:30 CST 2026] [WARNING] https://demo.operaria.co/evaluations-management - <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+[Wed Jan 07 12:24:30 CST 2026] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Wed Jan 07 12:24:30 CST 2026] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Wed Jan 07 12:24:33 CST 2026] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Wed Jan 07 12:24:33 CST 2026] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Wed Jan 07 12:24:33 CST 2026] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Wed Jan 07 12:24:33 CST 2026] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Wed Jan 07 12:24:33 CST 2026] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Wed Jan 07 12:24:33 CST 2026] [SEVERE] https://demo.operaria.co/assets/index-DiLqCSGN.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Wed Jan 07 12:24:36 CST 2026] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Wed Jan 07 12:24:36 CST 2026] [SEVERE] https://demo.operaria.co/assets/index-DiLqCSGN.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Wed Jan 07 12:24:36 CST 2026] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Wed Jan 07 12:24:36 CST 2026] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Wed Jan 07 12:25:58 CST 2026] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Wed Jan 07 12:25:58 CST 2026] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED

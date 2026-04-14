@@ -1,0 +1,252 @@
+[09:28:08] Error durante el login: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b9ba65ecfd66ee03d710ca97c47c622, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58308}, goog:processID: 1900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58308/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9ba65ecfd66ee03d710ca97c47c622
+[09:28:08] Inicio de sesión completado correctamente.
+[09:28:08] Ejecutando módulo: NOM 035
+[09:28:08] Error en acción: Clic en Mis Evaluaciones -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b9ba65ecfd66ee03d710ca97c47c622, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58308}, goog:processID: 1900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58308/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9ba65ecfd66ee03d710ca97c47c622
+[09:28:08] Error en acción: Comenzar evaluación -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b9ba65ecfd66ee03d710ca97c47c622, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58308}, goog:processID: 1900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58308/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9ba65ecfd66ee03d710ca97c47c622
+[09:28:08] Error en acción: Aceptar la política -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b9ba65ecfd66ee03d710ca97c47c622, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58308}, goog:processID: 1900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58308/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9ba65ecfd66ee03d710ca97c47c622
+[09:28:08] Error en acción: Confirmar política -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b9ba65ecfd66ee03d710ca97c47c622, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58308}, goog:processID: 1900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58308/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9ba65ecfd66ee03d710ca97c47c622
+[09:28:08] No se detectó caso correcto de NOM035
+[09:28:08] Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b9ba65ecfd66ee03d710ca97c47c622, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58308}, goog:processID: 1900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58308/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b9ba65ecfd66ee03d710ca97c47c622
+[16:02:16] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://testpirelli.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50710}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50710/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33eeada986f1f9bfd2718e43548fc8ce
+[16:02:16] Inicio de sesión completado correctamente.
+[16:02:16] Ejecutando módulo: Preguntas
+[16:06:18] Acción: Clic en Gestión de evaluaciones
+[16:06:18] Creando Pregunta automatizada múltiple 01
+[16:06:22] Acción: Agregar nueva pregunta
+[16:06:26] Acción: Desplegando listado
+[16:06:38] Acción: Pregunta Múltiple
+[16:06:44] Acción: Título - Texto: Pregunta automatizada múltiple 01
+[16:06:50] Acción: Información - Texto: Pregunta automatizada múltiple 01
+[16:06:51] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[16:06:53] Acción: Calificación - Texto: 10
+[16:06:57] Acción: Opción 1 - Texto: Opción 1
+[16:07:00] Acción: Peso 1 - Texto: 10
+[16:07:03] Acción: Opción 2 - Texto: Opción 2
+[16:07:06] Acción: Peso 2 - Texto: 5
+[16:07:10] Acción: Agregar opción
+[16:07:13] Acción: Opción 3 - Texto: Opción 3
+[16:07:16] Acción: Peso 3 - Texto: 5
+[16:07:20] Acción: Orden por creación
+[16:07:24] Acción: No comentarios
+[16:07:27] Acción: Sí evidencias
+[16:07:31] Acción: Guardar
+[16:07:51] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50710}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50710/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33eeada986f1f9bfd2718e43548fc8ce
+[16:07:51] Creando Pregunta automatizada múltiple 02
+[16:07:55] Acción: Agregar nueva pregunta
+[16:07:59] Acción: Desplegando listado
+[16:08:02] Acción: Pregunta Múltiple
+[16:08:09] Acción: Título - Texto: Pregunta automatizada múltiple 02
+[16:08:15] Acción: Información - Texto: Pregunta automatizada múltiple 02
+[16:08:15] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[16:08:18] Acción: Calificación - Texto: 10
+[16:08:21] Acción: Opción 1 - Texto: Opción 1
+[16:08:24] Acción: Peso 1 - Texto: 10
+[16:08:28] Acción: Opción 2 - Texto: Opción 2
+[16:08:31] Acción: Peso 2 - Texto: 5
+[16:08:34] Acción: Agregar opción
+[16:08:38] Acción: Opción 3 - Texto: Opción 3
+[16:08:41] Acción: Peso 3 - Texto: 5
+[16:08:45] Acción: Orden por creación
+[16:08:48] Acción: No comentarios
+[16:08:52] Acción: Sí evidencias
+[16:08:56] Acción: Guardar
+[16:09:16] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50710}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50710/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33eeada986f1f9bfd2718e43548fc8ce
+[16:09:16] Creando Pregunta automatizada múltiple 03
+[16:09:19] Acción: Agregar nueva pregunta
+[16:09:23] Acción: Desplegando listado
+[16:09:27] Acción: Pregunta Múltiple
+[16:09:33] Acción: Título - Texto: Pregunta automatizada múltiple 03
+[16:09:39] Acción: Información - Texto: Pregunta automatizada múltiple 03
+[16:09:39] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[16:09:42] Acción: Calificación - Texto: 10
+[16:09:46] Acción: Opción 1 - Texto: Opción 1
+[16:09:49] Acción: Peso 1 - Texto: 10
+[16:09:52] Acción: Opción 2 - Texto: Opción 2
+[16:09:55] Acción: Peso 2 - Texto: 5
+[16:09:59] Acción: Agregar opción
+[16:10:02] Acción: Opción 3 - Texto: Opción 3
+[16:10:05] Acción: Peso 3 - Texto: 5
+[16:10:09] Acción: Orden por creación
+[16:10:12] Acción: No comentarios
+[16:10:16] Acción: Sí evidencias
+[16:10:20] Acción: Guardar
+[16:10:40] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50710}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50710/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33eeada986f1f9bfd2718e43548fc8ce
+[16:10:40] Creando Pregunta automatizada múltiple 04
+[16:10:43] Acción: Agregar nueva pregunta
+[16:10:47] Acción: Desplegando listado
+[16:10:51] Acción: Pregunta Múltiple
+[16:10:57] Acción: Título - Texto: Pregunta automatizada múltiple 04
+[16:11:03] Acción: Información - Texto: Pregunta automatizada múltiple 04
+[16:11:03] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[16:11:06] Acción: Calificación - Texto: 10
+[16:11:10] Acción: Opción 1 - Texto: Opción 1
+[16:11:13] Acción: Peso 1 - Texto: 10
+[16:11:16] Acción: Opción 2 - Texto: Opción 2
+[16:11:19] Acción: Peso 2 - Texto: 5
+[16:11:23] Acción: Agregar opción
+[16:11:27] Acción: Opción 3 - Texto: Opción 3
+[16:11:30] Acción: Peso 3 - Texto: 5
+[16:11:33] Acción: Orden por creación
+[16:11:37] Acción: No comentarios
+[16:11:41] Acción: Sí evidencias
+[16:11:44] Acción: Guardar
+[16:12:04] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50710}, goog:processID: 19676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50710/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33eeada986f1f9bfd2718e43548fc8ce
+[16:12:04] Creando Pregunta automatizada múltiple 05
+[16:23:35] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://testpirelli.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53882}, goog:processID: 21532, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53882/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96b910f05537352695712115ccd98393
+[16:23:35] Inicio de sesión completado correctamente.
+[16:23:35] Ejecutando módulo: Preguntas
+[16:23:55] Acción: Clic en Gestión de evaluaciones
+[16:23:55] Creando Pregunta automatizada múltiple 01
+[16:23:59] Acción: Agregar nueva pregunta
+[16:24:02] Acción: Desplegando listado
+[16:24:15] Acción: Pregunta Múltiple
+[16:24:21] Acción: Título - Texto: Pregunta automatizada múltiple 01
+[16:24:28] Acción: Información - Texto: Pregunta automatizada múltiple 01
+[16:24:28] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[16:24:31] Acción: Calificación - Texto: 10
+[16:24:34] Acción: Opción 1 - Texto: Opción 1
+[16:24:37] Acción: Peso 1 - Texto: 10
+[16:24:41] Acción: Opción 2 - Texto: Opción 2
+[16:24:44] Acción: Peso 2 - Texto: 5
+[16:24:47] Acción: Agregar opción
+[16:24:51] Acción: Opción 3 - Texto: Opción 3
+[16:24:53] Acción: Peso 3 - Texto: 5
+[16:24:57] Acción: Orden por creación
+[16:25:01] Acción: No comentarios
+[16:25:05] Acción: Sí evidencias
+[16:25:08] Acción: Guardar
+[16:25:28] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[4]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53882}, goog:processID: 21532, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53882/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96b910f05537352695712115ccd98393
+[16:25:28] Creando Pregunta automatizada múltiple 02
+[16:25:32] Error en acción: Agregar nueva pregunta -> element click intercepted: Element <button type="button" class="ant-btn css-19s9sjc ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg" style="background-color: rgb(255, 234, 0); color: rgb(255, 0, 0); border: none; font-weight: 600; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 6px;">...</button> is not clickable at point (1745, 403). Other element would receive the click: <div tabindex="-1" class="ant-modal-wrap">...</div>
+  (Session info: chrome=145.0.7632.68)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96b910f05537352695712115ccd98393, clickElement {id=f.15EC42340B4EBF88CA352B6529EEA0BF.d.E4562C79AFCC1B89CDE69F44151E3E58.e.90}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53882}, goog:processID: 21532, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53882/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (96b910f05537352695712115ccd98393)] -> xpath: //*[@id="rc-tabs-0-panel-1"]/div[2]/div[1]/button]
+Session ID: 96b910f05537352695712115ccd98393
+[16:25:37] Error en acción: Desplegando listado -> element click intercepted: Element <span class="ant-select-selection-search">...</span> is not clickable at point (952, 198). Other element would receive the click: <textarea id="quest_info_en" aria-required="true" class="ant-input css-19s9sjc ant-input-outlined" style="overflow-y: hidden; resize: none; height: 32px; min-height: 32px; max-height: 142px;">...</textarea>
+  (Session info: chrome=145.0.7632.68)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96b910f05537352695712115ccd98393, clickElement {id=f.15EC42340B4EBF88CA352B6529EEA0BF.d.E4562C79AFCC1B89CDE69F44151E3E58.e.97}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53882}, goog:processID: 21532, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53882/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (96b910f05537352695712115ccd98393)] -> xpath: //*[@id="createQuestion"]/div[2]/div/div[2]/div/div/div/div/span/span[1]]
+Session ID: 96b910f05537352695712115ccd98393
+[16:33:32] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://testpirelli.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65210}, goog:processID: 20272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65210/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d3cc46beea6815fbf48820039de74be
+[16:33:32] Inicio de sesión completado correctamente.
+[16:33:32] Ejecutando módulo: Preguntas
+[16:33:43] Acción: Clic en Gestión de evaluaciones
+[16:33:43] Creando Pregunta automatizada múltiple 01
+[16:33:47] Acción: Agregar nueva pregunta
+[16:33:50] Acción: Desplegando listado
+[16:34:03] Acción: Pregunta Múltiple
+[16:34:09] Acción: Título - Texto: Pregunta automatizada múltiple 01
+[16:34:15] Acción: Información - Texto: Pregunta automatizada múltiple 01
+[16:34:16] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[16:34:18] Acción: Calificación - Texto: 10
+[16:34:22] Acción: Opción 1 - Texto: Opción 1
+[16:34:25] Acción: Peso 1 - Texto: 10
+[16:34:29] Acción: Opción 2 - Texto: Opción 2
+[16:34:32] Acción: Peso 2 - Texto: 5
+[16:34:35] Acción: Agregar opción
+[16:34:39] Acción: Opción 3 - Texto: Opción 3
+[16:34:42] Acción: Peso 3 - Texto: 5
+[16:34:45] Acción: Orden por creación
+[16:34:49] Acción: No comentarios
+[16:34:53] Acción: Sí evidencias
+[16:34:56] Acción: Guardar
+[16:35:17] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[4]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65210}, goog:processID: 20272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65210/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d3cc46beea6815fbf48820039de74be
+[16:35:17] Creando Pregunta automatizada múltiple 02
+[16:35:21] Error en acción: Agregar nueva pregunta -> element click intercepted: Element <button type="button" class="ant-btn css-19s9sjc ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg" style="background-color: rgb(255, 234, 0); color: rgb(255, 0, 0); border: none; font-weight: 600; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 6px;">...</button> is not clickable at point (1730, 403). Other element would receive the click: <div tabindex="-1" class="ant-modal-wrap">...</div>
+  (Session info: chrome=145.0.7632.68)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8d3cc46beea6815fbf48820039de74be, clickElement {id=f.30D459179612CC2DD3D971D022F4583D.d.F42A770153DE7E03E29760443BCF5CDA.e.88}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.68, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65210}, goog:processID: 20272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65210/devtoo..., se:cdpVersion: 145.0.7632.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8d3cc46beea6815fbf48820039de74be)] -> xpath: //*[@id="rc-tabs-0-panel-1"]/div[2]/div[1]/button]
+Session ID: 8d3cc46beea6815fbf48820039de74be

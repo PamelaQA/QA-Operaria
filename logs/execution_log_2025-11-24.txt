@@ -1,0 +1,1003 @@
+[09:08:19] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61065}, goog:processID: 11484, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61065/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c52963c0c583bca64ece57ac565e318
+[09:08:19] Inicio de sesión completado correctamente.
+[09:08:19] Ejecutando módulo: NOM 035
+[09:08:24] Acción: Clic en Mis Evaluaciones
+[09:08:28] Acción: Comenzar evaluación
+[09:08:36] Acción: Aceptar política
+[09:08:39] Acción: Confirmar
+[09:08:59] Caso 1 detectado (mayor a 50 colaboradores)
+[09:09:03] Acción: Sí
+[09:09:07] Acción: No
+[09:09:12] Acción: No
+[09:09:16] Acción: No
+[09:09:20] Acción: Sí
+[09:09:24] Acción: No
+[09:09:29] Acción: Sí
+[09:09:33] Acción: No
+[09:09:37] Acción: Sí
+[09:09:41] Acción: Sí
+[09:09:45] Acción: Sí
+[09:09:50] Acción: Sí
+[09:09:54] Acción: No
+[09:09:58] Acción: Sí
+[09:10:03] Acción: Sí
+[09:10:07] Acción: Escala 3
+[09:10:11] Acción: Escala 2
+[09:10:15] Acción: Escala 1
+[09:10:20] Acción: Escala 1
+[09:10:24] Acción: Escala 4
+[09:10:28] Acción: Escala 2
+[09:10:32] Acción: Escala 1
+[09:10:37] Acción: Escala 5
+[09:10:41] Acción: Escala 5
+[09:10:45] Acción: Escala 4
+[09:10:50] Acción: Escala 1
+[09:10:54] Acción: Escala 2
+[09:10:58] Acción: Escala 2
+[09:11:02] Acción: Escala 1
+[09:11:07] Acción: Escala 2
+[09:11:11] Acción: Escala 5
+[09:11:15] Acción: Escala 2
+[09:11:19] Acción: Escala 5
+[09:11:23] Acción: Escala 1
+[09:11:28] Acción: Escala 3
+[09:11:32] Acción: Escala 3
+[09:11:36] Acción: Escala 1
+[09:11:41] Acción: Escala 3
+[09:11:45] Acción: Escala 5
+[09:11:49] Acción: Escala 2
+[09:11:53] Acción: Escala 1
+[09:11:57] Acción: Escala 4
+[09:12:01] Acción: Escala 4
+[09:12:05] Acción: Escala 1
+[09:12:10] Acción: Escala 1
+[09:12:14] Acción: Escala 1
+[09:12:18] Acción: Escala 2
+[09:12:23] Acción: Escala 4
+[09:12:27] Acción: Escala 1
+[09:12:31] Acción: Escala 5
+[09:12:35] Acción: Escala 4
+[09:12:39] Acción: Escala 3
+[09:12:44] Acción: Escala 1
+[09:12:48] Acción: Escala 2
+[09:12:52] Acción: Escala 5
+[09:12:56] Acción: Escala 2
+[09:13:01] Acción: Escala 3
+[09:13:05] Acción: Escala 2
+[09:13:09] Acción: Escala 2
+[09:13:13] Acción: Escala 1
+[09:13:18] Acción: Escala 4
+[09:13:22] Acción: Escala 2
+[09:13:26] Acción: Escala 2
+[09:13:30] Acción: Escala 1
+[09:13:35] Acción: Escala 2
+[09:13:39] Acción: Escala 1
+[09:13:43] Acción: Escala 4
+[09:13:47] Acción: Escala 1
+[09:13:52] Acción: Escala 5
+[09:13:56] Acción: Escala 5
+[09:14:00] Acción: Escala 2
+[09:14:05] Acción: Escala 2
+[09:14:09] Acción: Escala 5
+[09:14:13] Acción: Escala 3
+[09:14:17] Acción: Escala 2
+[09:14:22] Acción: Escala 2
+[09:14:26] Acción: Escala 3
+[09:14:30] Acción: Escala 5
+[09:14:35] Acción: Escala 1
+[09:14:39] Acción: No
+[09:14:43] Acción: No
+[09:14:48] Acción: Finalizar evaluación
+[09:14:48] Evaluación NOM035 completada ✔
+[09:14:48] Guardados logs del navegador en browser_logs_2025-11-24.txt
+[09:14:48] Ejecución finalizada correctamente
+[09:17:39] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64239}, goog:processID: 15972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64239/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e57122d0379cbc4a5fa7c8016f7bc8c0
+[09:17:39] Inicio de sesión completado correctamente.
+[09:17:39] Ejecutando módulo: NOM 035
+[09:17:44] Acción: Clic en Mis Evaluaciones
+[09:17:49] Acción: Comenzar evaluación
+[09:17:54] Acción: Aceptar política
+[09:17:57] Acción: Confirmar
+[09:18:17] Caso 2 detectado (menor a 50 colaboradores)
+[09:18:21] Acción: Sí
+[09:18:25] Acción: No
+[09:18:30] Acción: No
+[09:18:34] Acción: Escala 4
+[09:18:39] Error en acción: Escala 1 -> element click intercepted: Element <span class="ant-radio ant-wave-target">...</span> is not clickable at point (791, 669). Other element would receive the click: <div style="display: flex; justify-content: flex-end;">...</div>
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e57122d0379cbc4a5fa7c8016f7bc8c0, clickElement {id=f.6854DDC16C28A2010017DA89C9F4D4AA.d.BE526C37995633A61824EDAD8378E49D.e.355}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64239}, goog:processID: 15972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64239/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e57122d0379cbc4a5fa7c8016f7bc8c0)] -> xpath: //*[@id='answer_809_112']/label[1]/span[1]]
+Session ID: e57122d0379cbc4a5fa7c8016f7bc8c0
+[09:18:43] Acción: Escala 4
+[09:18:47] Acción: Escala 5
+[09:24:51] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54955}, goog:processID: 16020, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54955/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5438333ada2989150a51fd0f9ee67f8c
+[09:24:51] Inicio de sesión completado correctamente.
+[09:24:51] Ejecutando módulo: NOM 035
+[09:24:55] Acción: Clic en Mis Evaluaciones
+[09:24:59] Acción: Comenzar evaluación
+[09:25:04] Acción: Aceptar política
+[09:25:08] Acción: Confirmar
+[09:25:28] Caso 2 detectado (menor a 50 colaboradores)
+[09:25:32] Acción: No
+[09:25:36] Acción: Escala 3
+[09:25:40] Acción: Escala 2
+[09:25:44] Acción: Escala 5
+[09:25:49] Error en acción: Escala 5 -> element click intercepted: Element <span class="ant-radio ant-wave-target ant-radio-checked">...</span> is not clickable at point (1405, 669). Other element would receive the click: <p style="cursor: pointer; color: rgb(90, 113, 247); margin-right: 1rem; font-weight: bold;">...</p>
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5438333ada2989150a51fd0f9ee67f8c, clickElement {id=f.C55210F98A2ED650185FEF325ECFB43C.d.B7954AD0D83BAFCEB1229DF4616DB7F9.e.407}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54955}, goog:processID: 16020, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54955/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5438333ada2989150a51fd0f9ee67f8c)] -> xpath: //*[@id='answer_811_112']/label[5]/span[1]]
+Session ID: 5438333ada2989150a51fd0f9ee67f8c
+[09:25:53] Acción: Escala 1
+[10:14:16] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63653}, goog:processID: 10488, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63653/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e0a20bfd238114855709227613adb9e
+[10:14:16] Inicio de sesión completado correctamente.
+[10:14:16] Ejecutando módulo: NOM 035
+[10:14:20] Acción: Clic en Mis Evaluaciones
+[10:14:25] Acción: Comenzar evaluación
+[10:14:32] Acción: Aceptar la política
+[10:14:36] Acción: Confirmar política
+[10:14:56] Evaluación NOM035 menor a 50 colaboradores
+[10:14:56] Iniciando Caso 2…
+[10:14:59] Acción: Sí
+[10:15:00] 793 = Sí → respondiendo subpreguntas 794–806
+[10:15:04] Acción: No
+[10:15:08] Acción: No
+[10:15:12] Acción: Sí
+[10:15:16] Acción: No
+[10:15:21] Acción: Sí
+[10:15:25] Acción: No
+[10:15:29] Acción: Sí
+[10:15:33] Acción: Sí
+[10:15:38] Acción: Sí
+[10:15:42] Acción: No
+[10:15:46] Acción: No
+[10:15:50] Acción: Sí
+[10:15:54] Acción: No
+[10:15:59] Acción: No
+[10:16:03] Acción: Escala opción 1
+[10:16:07] Acción: Escala opción 2
+[10:16:11] Acción: Escala opción 1
+[10:16:16] Acción: Escala opción 1
+[10:16:20] Acción: Escala opción 5
+[10:16:24] Acción: Escala opción 1
+[10:16:28] Acción: Escala opción 5
+[10:16:32] Acción: Escala opción 3
+[10:16:37] Acción: Escala opción 5
+[10:16:41] Acción: Escala opción 5
+[10:16:45] Acción: Escala opción 4
+[10:16:49] Acción: Escala opción 4
+[10:16:53] Acción: Escala opción 5
+[10:16:58] Acción: Escala opción 2
+[10:17:02] Acción: Escala opción 1
+[10:17:06] Acción: Escala opción 1
+[10:17:10] Acción: Escala opción 2
+[10:17:14] Acción: Escala opción 1
+[10:17:19] Acción: Escala opción 5
+[10:17:23] Acción: Escala opción 4
+[10:17:27] Acción: Escala opción 3
+[10:17:31] Acción: Escala opción 2
+[10:17:35] Acción: Escala opción 4
+[10:17:40] Acción: Escala opción 1
+[10:17:44] Acción: Escala opción 3
+[10:17:48] Acción: Escala opción 3
+[10:17:52] Acción: Escala opción 3
+[10:17:56] Acción: Escala opción 4
+[10:18:01] Acción: Escala opción 4
+[10:18:05] Acción: Escala opción 3
+[10:18:09] Acción: Escala opción 3
+[10:18:13] Acción: Escala opción 3
+[10:18:17] Acción: Escala opción 2
+[10:18:22] Acción: Escala opción 3
+[10:18:26] Acción: Escala opción 4
+[10:18:30] Acción: Escala opción 3
+[10:18:34] Acción: Escala opción 1
+[10:18:39] Acción: Escala opción 1
+[10:18:43] Acción: Escala opción 5
+[10:18:47] Acción: Escala opción 4
+[10:18:52] Acción: Sí
+[10:18:56] Acción: Escala opción 3
+[10:19:00] Acción: Escala opción 1
+[10:19:04] Acción: Escala opción 3
+[10:19:08] Acción: No
+[10:19:09] Caso 2 completado.
+[10:19:13] Acción: Finalizar evaluación
+[10:19:13] Evaluación NOM 035 completada correctamente.
+[10:19:13] Guardados logs del navegador en browser_logs_2025-11-24.txt
+[10:19:13] Ejecución finalizada correctamente
+[11:20:03] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53998}, goog:processID: 14500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53998/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1947b79b7ac54acb3aa3ab7609c686bf
+[11:20:03] Inicio de sesión completado correctamente.
+[11:20:03] Ejecutando módulo: NOM 035
+[11:20:07] Acción: Clic en Mis Evaluaciones
+[11:20:16] Acción: Comenzar evaluación
+[11:20:38] Acción: Aceptar la política
+[11:20:42] Acción: Confirmar política
+[11:21:02] Evaluación NOM035 mayor a 50 colaboradores
+[11:21:02] Iniciando Caso 1…
+[11:21:05] Acción: Sí
+[11:21:10] Acción: No
+[11:21:14] Acción: Sí
+[11:21:18] Acción: Sí
+[11:21:22] Acción: Sí
+[11:21:26] Acción: No
+[11:21:31] Acción: Sí
+[11:21:35] Acción: No
+[11:21:39] Acción: Sí
+[11:21:43] Acción: Sí
+[11:21:47] Acción: No
+[11:21:52] Acción: No
+[11:21:56] Acción: No
+[11:22:00] Acción: Sí
+[11:22:05] Acción: Sí
+[11:22:09] Acción: Escala opción 4
+[11:22:13] Acción: Escala opción 2
+[11:22:17] Acción: Escala opción 3
+[11:22:21] Acción: Escala opción 2
+[11:22:26] Acción: Escala opción 1
+[11:22:30] Acción: Escala opción 2
+[11:22:34] Acción: Escala opción 3
+[11:22:38] Acción: Escala opción 4
+[11:22:42] Acción: Escala opción 1
+[11:22:47] Acción: Escala opción 4
+[11:22:51] Acción: Escala opción 1
+[11:22:55] Acción: Escala opción 4
+[11:23:00] Acción: Escala opción 1
+[11:23:04] Acción: Escala opción 3
+[11:23:08] Acción: Escala opción 4
+[11:23:12] Acción: Escala opción 5
+[11:23:16] Acción: Escala opción 3
+[11:23:20] Acción: Escala opción 4
+[11:23:25] Acción: Escala opción 1
+[11:23:29] Acción: Escala opción 3
+[11:23:33] Acción: Escala opción 2
+[11:23:38] Acción: Escala opción 4
+[11:23:42] Acción: Escala opción 4
+[11:23:46] Acción: Escala opción 3
+[11:23:50] Acción: Escala opción 5
+[11:23:54] Acción: Escala opción 5
+[11:23:58] Acción: Escala opción 2
+[11:24:03] Acción: Escala opción 5
+[11:24:07] Acción: Escala opción 2
+[11:24:11] Acción: Escala opción 3
+[11:24:15] Acción: Escala opción 2
+[11:24:19] Acción: Escala opción 1
+[11:24:24] Acción: Escala opción 5
+[11:24:28] Acción: Escala opción 5
+[11:24:32] Acción: Escala opción 4
+[11:24:36] Acción: Escala opción 1
+[11:24:41] Acción: Escala opción 5
+[11:24:45] Acción: Escala opción 2
+[11:24:49] Acción: Escala opción 1
+[11:24:53] Acción: Escala opción 1
+[11:24:58] Acción: Escala opción 1
+[11:25:02] Acción: Escala opción 3
+[11:25:06] Acción: Escala opción 5
+[11:25:11] Acción: Escala opción 3
+[11:25:15] Acción: Escala opción 3
+[11:25:19] Acción: Escala opción 5
+[11:25:23] Acción: Escala opción 4
+[11:25:28] Acción: Escala opción 5
+[11:25:32] Acción: Escala opción 3
+[11:25:36] Acción: Escala opción 2
+[11:25:40] Acción: Escala opción 2
+[11:25:44] Acción: Escala opción 1
+[11:25:49] Acción: Escala opción 1
+[11:25:53] Acción: Escala opción 1
+[11:25:57] Acción: Escala opción 3
+[11:26:01] Acción: Escala opción 2
+[11:26:06] Acción: Escala opción 4
+[11:26:10] Acción: Escala opción 1
+[11:26:14] Acción: Escala opción 2
+[11:26:18] Acción: Escala opción 1
+[11:26:23] Acción: Escala opción 5
+[11:26:27] Acción: Escala opción 4
+[11:26:31] Acción: Escala opción 2
+[11:26:35] Acción: Escala opción 2
+[11:26:40] Acción: No
+[11:26:44] Acción: No
+[11:26:45] Caso 1 completado.
+[11:26:49] Acción: Finalizar evaluación
+[11:26:49] Evaluación NOM 035 completada correctamente.
+[11:26:49] Guardados logs del navegador en browser_logs_2025-11-24.txt
+[11:26:49] Ejecución finalizada correctamente
+[11:49:46] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56218}, goog:processID: 15488, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56218/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f30d5890a46c1ed6f51f513c6ab6269
+[11:49:46] Inicio de sesión completado correctamente.
+[11:49:54] Modo seleccionado: 2
+[11:49:54] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:49:58] Acción: Clic en Mis evaluaciones
+[11:49:59] Cambiado a Otras evaluaciones
+[11:50:03] Evaluando a: Salma Hayek
+[11:50:03] ✔ Clic en: Comenzar evaluación
+[11:50:05] Respondiendo sección: Desempeño
+[11:51:07] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:07] Inicio de sesión completado correctamente.
+[11:51:12] Modo seleccionado: 2
+[11:51:12] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:51:16] Acción: Clic en Mis evaluaciones
+[11:51:17] Cambiado a Otras evaluaciones
+[11:51:21] Evaluando a: Kumail Nanjiani
+[11:51:21] ✔ Clic en: Comenzar evaluación
+[11:51:22] Respondiendo sección: Desempeño
+[11:51:26] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[11:51:30] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:51:34] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[11:51:37] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:51:41] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[11:51:45] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:51:49] Error en acción: Pregunta 7 (Desempeño): FRECUENTEMENTE -> element click intercepted: Element <label class="ant-radio-wrapper ant-radio-wrapper-in-form-item css-m9qqmq">...</label> is not clickable at point (1023, 664). Other element would receive the click: <div style="display: flex; justify-content: flex-end;">...</div>
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, clickElement {id=f.888E77B64EEB06DA884FBB7D9FA48ADD.d.67D5D86F2C1D267783FE70DE809CE710.e.212}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1c649f3054e93de188dc896902150891)] -> xpath: //*[@id='answer_648_157']/div[2]/label]
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:52] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[11:51:52] Respondiendo sección: Potencial
+[11:51:56] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:51:59] Error en acción: Pregunta 2 (Potencial): SIEMPRE -> invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, clickElement {id=f.888E77B64EEB06DA884FBB7D9FA48ADD.d.67D5D86F2C1D267783FE70DE809CE710.e.216}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1c649f3054e93de188dc896902150891)] -> xpath: //*[@id='answer_651_158']/div[1]/label]
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Pregunta 3 (Potencial): FRECUENTEMENTE -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='answer_652_158']/div[2]/label, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Pregunta 4 (Potencial): SIEMPRE -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='answer_653_158']/div[1]/label, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Pregunta 5 (Potencial): SIEMPRE -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='answer_654_158']/div[1]/label, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Pregunta 6 (Potencial): SIEMPRE -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='answer_655_158']/div[1]/label, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Pregunta 7 (Potencial): FRECUENTEMENTE -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='answer_656_158']/div[2]/label, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Pregunta 8 (Potencial): FRECUENTEMENTE -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='answer_657_158']/div[2]/label, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Error en acción: Finalizar evaluación -> invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c649f3054e93de188dc896902150891, findElement {value=//*[@id='root']/div/div[2]/div[2]/div/main/form/div[33]/div/div/div/div/button, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59110}, goog:processID: 9848, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59110/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c649f3054e93de188dc896902150891
+[11:51:59] Evaluación finalizada para: Kumail Nanjiani
+[11:52:34] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56755}, goog:processID: 10012, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56755/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 900fc56e41c68ef8b96ba6ab012154ad
+[11:52:34] Inicio de sesión completado correctamente.
+[11:52:40] Modo seleccionado: 2
+[11:52:40] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[11:52:44] Acción: Clic en Mis evaluaciones
+[11:52:44] Cambiado a Otras evaluaciones
+[11:52:48] Evaluando a: Kumail Nanjiani
+[11:52:49] ✔ Clic en: Comenzar evaluación
+[11:52:50] Respondiendo sección: Desempeño
+[11:52:54] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:52:57] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:53:01] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:53:05] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:53:09] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[11:53:12] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:53:16] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:53:20] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:53:20] Respondiendo sección: Potencial
+[11:53:23] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:53:27] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:53:31] Acción: Pregunta 3 (Potencial): SIEMPRE
+[11:53:35] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[11:53:38] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:53:42] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:53:46] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:53:49] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[11:53:53] Error en acción: Finalizar evaluación -> element click intercepted: Element <button type="button" class="ant-btn css-m9qqmq ant-btn-default ant-btn-color-default ant-btn-variant-outlined" style="background: rgb(142, 148, 251); color: rgb(255, 255, 255); font-weight: bold; margin: 0px auto; display: block;">...</button> is not clickable at point (517, 634). Other element would receive the click: <div style="display: flex; justify-content: flex-end;">...</div>
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [900fc56e41c68ef8b96ba6ab012154ad, clickElement {id=f.F278F453E8EA36AD63F6E65BC261D81D.d.622A2488A47F1C21C6EE545EA09045D9.e.420}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56755}, goog:processID: 10012, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56755/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (900fc56e41c68ef8b96ba6ab012154ad)] -> xpath: //*[@id='root']/div/div[2]/div[2]/div/main/form/div[33]/div/div/div/div/button]
+Session ID: 900fc56e41c68ef8b96ba6ab012154ad
+[11:53:53] Evaluación finalizada para: Kumail Nanjiani
+[11:54:00] Cambiado a Otras evaluaciones
+[11:54:24] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:54:25] Evaluando a: Ryan Reynolds
+[11:54:26] ✔ Clic en: Comenzar evaluación
+[11:54:27] Respondiendo sección: Desempeño
+[11:54:31] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:54:34] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:54:38] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[11:54:42] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:54:45] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[11:54:49] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:54:53] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:54:56] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:54:56] Respondiendo sección: Potencial
+[11:55:00] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:55:04] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:55:08] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[11:55:11] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[11:55:15] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:55:19] Acción: Pregunta 6 (Potencial): SIEMPRE
+[11:55:22] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:55:26] Acción: Pregunta 8 (Potencial): SIEMPRE
+[11:55:30] Acción: Finalizar evaluación
+[11:55:30] Evaluación finalizada para: Ryan Reynolds
+[11:55:40] Cambiado a Otras evaluaciones
+[11:56:04] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:56:05] Evaluando a: Patrick Stewart
+[11:56:05] ✔ Clic en: Comenzar evaluación
+[11:56:07] Respondiendo sección: Desempeño
+[11:56:10] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:56:14] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:56:18] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:56:21] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[11:56:25] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[11:56:29] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[11:56:32] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:56:36] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:56:36] Respondiendo sección: Potencial
+[11:56:40] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[11:56:43] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:56:47] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[11:56:51] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:56:54] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:56:58] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[11:57:02] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:57:06] Acción: Pregunta 8 (Potencial): SIEMPRE
+[11:57:09] Acción: Finalizar evaluación
+[11:57:09] Evaluación finalizada para: Patrick Stewart
+[11:57:11] Cambiado a Otras evaluaciones
+[11:57:34] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:57:35] Evaluando a: Florence Pugh
+[11:57:36] ✔ Clic en: Comenzar evaluación
+[11:57:37] Respondiendo sección: Desempeño
+[11:57:41] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:57:44] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[11:57:48] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:57:52] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[11:57:56] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[11:57:59] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:58:03] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:58:07] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[11:58:07] Respondiendo sección: Potencial
+[11:58:10] Acción: Pregunta 1 (Potencial): SIEMPRE
+[11:58:14] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:58:18] Acción: Pregunta 3 (Potencial): SIEMPRE
+[11:58:21] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:58:25] Acción: Pregunta 5 (Potencial): SIEMPRE
+[11:58:29] Acción: Pregunta 6 (Potencial): SIEMPRE
+[11:58:33] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[11:58:36] Acción: Pregunta 8 (Potencial): SIEMPRE
+[11:58:40] Acción: Finalizar evaluación
+[11:58:40] Evaluación finalizada para: Florence Pugh
+[11:58:42] Cambiado a Otras evaluaciones
+[11:59:05] Fila eliminada en Otras Evaluaciones. Continuando…
+[11:59:06] Evaluando a: Hailee Steinfeld
+[11:59:06] ✔ Clic en: Comenzar evaluación
+[11:59:07] Respondiendo sección: Desempeño
+[11:59:11] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[11:59:15] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[11:59:18] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[11:59:22] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[11:59:26] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[11:59:30] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[11:59:33] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[11:59:37] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[11:59:37] Respondiendo sección: Potencial
+[11:59:41] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[11:59:44] Acción: Pregunta 2 (Potencial): SIEMPRE
+[11:59:48] Acción: Pregunta 3 (Potencial): SIEMPRE
+[11:59:52] Acción: Pregunta 4 (Potencial): SIEMPRE
+[11:59:55] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[11:59:59] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[12:00:03] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[12:00:06] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[12:00:10] Acción: Finalizar evaluación
+[12:00:10] Evaluación finalizada para: Hailee Steinfeld
+[12:00:12] Cambiado a Otras evaluaciones
+[12:00:35] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:00:36] Evaluando a: Iman Vellani
+[12:00:36] ✔ Clic en: Comenzar evaluación
+[12:00:37] Respondiendo sección: Desempeño
+[12:00:41] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[12:00:45] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[12:00:49] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[12:00:52] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[12:00:56] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:01:00] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[12:01:03] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[12:01:07] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[12:01:07] Respondiendo sección: Potencial
+[12:01:11] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[12:01:14] Acción: Pregunta 2 (Potencial): SIEMPRE
+[12:01:18] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[12:01:22] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:01:25] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[12:01:29] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[12:01:33] Acción: Pregunta 7 (Potencial): SIEMPRE
+[12:01:36] Acción: Pregunta 8 (Potencial): SIEMPRE
+[12:01:40] Acción: Finalizar evaluación
+[12:01:40] Evaluación finalizada para: Iman Vellani
+[12:01:42] Cambiado a Otras evaluaciones
+[12:02:05] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:02:06] Evaluando a: Ethan Hawke
+[12:02:06] ✔ Clic en: Comenzar evaluación
+[12:02:08] Respondiendo sección: Desempeño
+[12:02:11] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[12:02:15] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[12:02:19] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[12:02:22] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[12:02:26] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:02:30] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[12:02:33] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[12:02:37] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[12:02:37] Respondiendo sección: Potencial
+[12:02:41] Acción: Pregunta 1 (Potencial): SIEMPRE
+[12:02:44] Acción: Pregunta 2 (Potencial): SIEMPRE
+[12:02:48] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[12:02:52] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:02:56] Acción: Pregunta 5 (Potencial): SIEMPRE
+[12:02:59] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:03:03] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[12:03:07] Acción: Pregunta 8 (Potencial): SIEMPRE
+[12:03:10] Acción: Finalizar evaluación
+[12:03:10] Evaluación finalizada para: Ethan Hawke
+[12:03:12] Cambiado a Otras evaluaciones
+[12:03:35] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:03:36] Evaluando a: Andy Serkis
+[12:03:36] ✔ Clic en: Comenzar evaluación
+[12:03:37] Respondiendo sección: Desempeño
+[12:03:41] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[12:03:45] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[12:03:48] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[12:03:52] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[12:03:56] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:03:59] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[12:04:03] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[12:04:07] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[12:04:07] Respondiendo sección: Potencial
+[12:04:11] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[12:04:14] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[12:04:18] Acción: Pregunta 3 (Potencial): SIEMPRE
+[12:04:22] Acción: Pregunta 4 (Potencial): SIEMPRE
+[12:04:25] Acción: Pregunta 5 (Potencial): SIEMPRE
+[12:04:29] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:04:33] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[12:04:37] Acción: Pregunta 8 (Potencial): SIEMPRE
+[12:04:40] Acción: Finalizar evaluación
+[12:04:40] Evaluación finalizada para: Andy Serkis
+[12:04:42] Cambiado a Otras evaluaciones
+[12:05:05] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:05:06] Evaluando a: Angela Bassett
+[12:05:06] ✔ Clic en: Comenzar evaluación
+[12:05:07] Respondiendo sección: Desempeño
+[12:05:11] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[12:05:14] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[12:05:18] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[12:05:22] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[12:05:25] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:05:29] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[12:05:33] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[12:05:37] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[12:05:37] Respondiendo sección: Potencial
+[12:05:40] Acción: Pregunta 1 (Potencial): SIEMPRE
+[12:05:44] Acción: Pregunta 2 (Potencial): SIEMPRE
+[12:05:48] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[12:05:51] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:05:55] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[12:05:59] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:06:02] Acción: Pregunta 7 (Potencial): SIEMPRE
+[12:06:06] Acción: Pregunta 8 (Potencial): SIEMPRE
+[12:06:10] Acción: Finalizar evaluación
+[12:06:10] Evaluación finalizada para: Angela Bassett
+[12:06:11] Cambiado a Otras evaluaciones
+[12:06:34] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:06:35] Evaluando a: Paul Rudd
+[12:06:35] ✔ Clic en: Comenzar evaluación
+[12:06:36] Respondiendo sección: Desempeño
+[12:06:40] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[12:06:43] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[12:06:47] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[12:06:51] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[12:06:55] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[12:06:58] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[12:07:02] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[12:07:06] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[12:07:06] Respondiendo sección: Potencial
+[12:07:09] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[12:07:13] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[12:07:17] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[12:07:20] Acción: Pregunta 4 (Potencial): SIEMPRE
+[12:07:24] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[12:07:28] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[12:07:31] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[12:07:35] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[12:07:39] Acción: Finalizar evaluación
+[12:07:39] Evaluación finalizada para: Paul Rudd
+[12:07:41] Cambiado a Otras evaluaciones
+[12:08:03] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:08:04] Evaluando a: Chadwick Boseman
+[12:08:04] ✔ Clic en: Comenzar evaluación
+[12:08:05] Respondiendo sección: Desempeño
+[12:08:09] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[12:08:13] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[12:08:16] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[12:08:20] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[12:08:24] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:08:27] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[12:08:31] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[12:08:35] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[12:08:35] Respondiendo sección: Potencial
+[12:08:38] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[12:08:42] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[12:08:46] Acción: Pregunta 3 (Potencial): SIEMPRE
+[12:08:49] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:08:53] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[12:08:57] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:09:01] Acción: Pregunta 7 (Potencial): SIEMPRE
+[12:09:04] Acción: Pregunta 8 (Potencial): SIEMPRE
+[12:09:08] Acción: Finalizar evaluación
+[12:09:08] Evaluación finalizada para: Chadwick Boseman
+[12:09:10] Cambiado a Otras evaluaciones
+[12:09:32] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:09:33] Evaluando a: Don Cheadle
+[12:09:33] ✔ Clic en: Comenzar evaluación
+[12:09:34] Respondiendo sección: Desempeño
+[12:09:38] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[12:09:42] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[12:09:46] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[12:09:49] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[12:09:53] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:09:57] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[12:10:00] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[12:10:04] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[12:10:04] Respondiendo sección: Potencial
+[12:10:08] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[12:10:11] Acción: Pregunta 2 (Potencial): SIEMPRE
+[12:10:15] Acción: Pregunta 3 (Potencial): SIEMPRE
+[12:10:19] Acción: Pregunta 4 (Potencial): SIEMPRE
+[12:10:23] Acción: Pregunta 5 (Potencial): SIEMPRE
+[12:10:26] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:10:30] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[12:10:34] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[12:10:37] Acción: Finalizar evaluación
+[12:10:37] Evaluación finalizada para: Don Cheadle
+[12:10:39] Cambiado a Otras evaluaciones
+[12:11:01] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:11:02] Evaluando a: Jasive Reyes
+[12:11:02] ✔ Clic en: Comenzar evaluación
+[12:11:03] Respondiendo sección: Desempeño
+[12:11:07] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[12:11:11] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[12:11:15] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[12:11:18] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[12:11:22] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[12:11:26] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[12:11:29] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[12:11:33] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[12:11:33] Respondiendo sección: Potencial
+[12:11:37] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[12:11:40] Acción: Pregunta 2 (Potencial): SIEMPRE
+[12:11:44] Acción: Pregunta 3 (Potencial): SIEMPRE
+[12:11:48] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:11:52] Acción: Pregunta 5 (Potencial): SIEMPRE
+[12:11:55] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:11:59] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[12:12:03] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[12:12:06] Acción: Finalizar evaluación
+[12:12:06] Evaluación finalizada para: Jasive Reyes
+[12:12:08] Cambiado a Otras evaluaciones
+[12:12:29] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:12:30] Evaluando a: Samuel Jackson
+[12:12:31] ✔ Clic en: Comenzar evaluación
+[12:12:32] Respondiendo sección: Desempeño
+[12:12:36] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[12:12:39] Acción: Pregunta 2 (Desempeño): SIEMPRE
+[12:12:43] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[12:12:47] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[12:12:50] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[12:12:54] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[12:12:58] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[12:13:02] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[12:13:02] Respondiendo sección: Potencial
+[12:13:05] Acción: Pregunta 1 (Potencial): SIEMPRE
+[12:13:09] Acción: Pregunta 2 (Potencial): FRECUENTEMENTE
+[12:13:13] Acción: Pregunta 3 (Potencial): SIEMPRE
+[12:13:16] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:13:20] Acción: Pregunta 5 (Potencial): SIEMPRE
+[12:13:24] Acción: Pregunta 6 (Potencial): SIEMPRE
+[12:13:27] Acción: Pregunta 7 (Potencial): SIEMPRE
+[12:13:31] Acción: Pregunta 8 (Potencial): FRECUENTEMENTE
+[12:13:35] Acción: Finalizar evaluación
+[12:13:35] Evaluación finalizada para: Samuel Jackson
+[12:13:37] Cambiado a Otras evaluaciones
+[12:13:58] Fila eliminada en Otras Evaluaciones. Continuando…
+[12:13:59] Evaluando a: Angelina Jolie
+[12:13:59] ✔ Clic en: Comenzar evaluación
+[12:14:00] Respondiendo sección: Desempeño
+[12:14:04] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[12:14:08] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[12:14:11] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[12:14:15] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[12:14:19] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[12:14:23] Acción: Pregunta 6 (Desempeño): SIEMPRE
+[12:14:26] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[12:14:30] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[12:14:30] Respondiendo sección: Potencial
+[12:14:34] Acción: Pregunta 1 (Potencial): SIEMPRE
+[12:14:37] Acción: Pregunta 2 (Potencial): SIEMPRE
+[12:14:41] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[12:14:45] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[12:14:48] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[12:14:52] Acción: Pregunta 6 (Potencial): FRECUENTEMENTE
+[12:14:56] Acción: Pregunta 7 (Potencial): SIEMPRE
+[12:15:00] Acción: Pregunta 8 (Potencial): SIEMPRE
+[12:15:03] Acción: Finalizar evaluación
+[12:15:03] Evaluación finalizada para: Angelina Jolie
+[12:15:05] Cambiado a Otras evaluaciones
+[12:15:26] Error Expected condition failed: waiting for element to no longer be visible: By.xpath: //table//tbody//tr[td[normalize-space()='Angelina Jolie']] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56755}, goog:processID: 10012, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56755/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 900fc56e41c68ef8b96ba6ab012154ad
+[12:15:26] Guardados logs del navegador en browser_logs_2025-11-24.txt
+[12:15:26] Ejecución finalizada correctamente
+[17:16:35] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52667}, goog:processID: 4872, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52667/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b9107dbcf3a768e1a48748f9b2f676d
+[17:16:35] Inicio de sesión completado correctamente.
+[17:16:35] Ejecutando módulo: Preguntas
+[17:16:50] Acción: Clic en Gestión de evaluaciones
+[17:16:50] Creando Pregunta automatizada múltiple 01
+[17:16:54] Acción: Agregar nueva pregunta
+[17:16:58] Acción: Desplegando listado
+[17:17:02] Acción: Pregunta Múltiple
+[17:17:08] Acción: Título - Texto: Pregunta automatizada múltiple 01
+[17:17:15] Acción: Información - Texto: Pregunta automatizada múltiple 01
+[17:17:15] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[17:17:18] Acción: Calificación - Texto: 10
+[17:17:21] Acción: Opción 1 - Texto: Opción 1
+[17:17:24] Acción: Peso 1 - Texto: 10
+[17:17:28] Acción: Opción 2 - Texto: Opción 2
+[17:17:30] Acción: Peso 2 - Texto: 5
+[17:17:34] Acción: Agregar opción
+[17:17:38] Acción: Opción 3 - Texto: Opción 3
+[17:17:41] Acción: Peso 3 - Texto: 5
+[17:17:44] Acción: Orden por creación
+[17:17:48] Acción: No comentarios
+[17:17:52] Acción: Sí evidencias
+[17:17:55] Acción: Guardar
+[17:18:15] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52667}, goog:processID: 4872, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52667/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b9107dbcf3a768e1a48748f9b2f676d
+[17:18:15] Creando Pregunta automatizada múltiple 02
+[17:18:19] Acción: Agregar nueva pregunta
+[17:18:23] Acción: Desplegando listado
+[17:18:27] Acción: Pregunta Múltiple
+[17:18:33] Acción: Título - Texto: Pregunta automatizada múltiple 02
+[17:18:39] Acción: Información - Texto: Pregunta automatizada múltiple 02
+[17:18:39] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[17:18:42] Acción: Calificación - Texto: 10
+[17:18:45] Acción: Opción 1 - Texto: Opción 1
+[17:18:48] Acción: Peso 1 - Texto: 10
+[17:18:51] Acción: Opción 2 - Texto: Opción 2
+[17:18:54] Acción: Peso 2 - Texto: 5
+[17:18:58] Acción: Agregar opción
+[17:19:01] Acción: Opción 3 - Texto: Opción 3
+[17:19:04] Acción: Peso 3 - Texto: 5
+[17:19:08] Acción: Orden por creación
+[17:19:11] Acción: No comentarios
+[17:19:15] Acción: Sí evidencias
+[17:19:19] Acción: Guardar
+[17:19:39] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52667}, goog:processID: 4872, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52667/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b9107dbcf3a768e1a48748f9b2f676d
+[17:19:39] Flujo de Preguntas completado.
+[17:19:39] Guardados logs del navegador en browser_logs_2025-11-24.txt
+[17:19:39] Ejecución finalizada correctamente
+[17:20:24] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62447}, goog:processID: 20096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62447/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25b5741406d11d04f2344d203fef9de3
+[17:20:24] Inicio de sesión completado correctamente.
+[17:20:24] Ejecutando módulo: Preguntas
+[17:20:41] Acción: Clic en Gestión de evaluaciones
+[17:20:41] Creando Pregunta automatizada abierta numérica 01
+[17:20:45] Acción: Agregar nueva pregunta
+[17:20:49] Acción: Desplegando listado
+[17:20:52] Acción: Pregunta Abierta numérica
+[17:20:59] Acción: Título - Texto: Pregunta automatizada abierta numérica 01
+[17:21:06] Acción: Información - Texto: Pregunta automatizada abierta numérica 01
+[17:21:06] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[17:21:10] Acción: Operador
+[17:21:14] Acción: <=
+[17:21:16] Acción: Valor - Texto: 15
+[17:21:20] Acción: Unidad
+[17:21:24] Acción: -
+[17:21:27] Acción: Unidad de medida - Texto: 20
+[17:21:29] Acción: Calificación - Texto: 10
+[17:21:33] Acción: Sí comentarios
+[17:21:37] Acción: Sí evidencias
+[17:21:41] Acción: Guardar
+[17:22:01] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="rc-tabs-0-panel-1"]/div[2]/div[4]/div[2]/div/div[1]/div/div[2]/form/div[9]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62447}, goog:processID: 20096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62447/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25b5741406d11d04f2344d203fef9de3
+[17:22:01] Creando Pregunta automatizada abierta numérica 02
+[17:22:04] Acción: Agregar nueva pregunta
+[17:22:08] Acción: Desplegando listado
+[17:22:12] Acción: Pregunta Abierta numérica
+[17:22:19] Acción: Título - Texto: Pregunta automatizada abierta numérica 02
+[17:22:26] Acción: Información - Texto: Pregunta automatizada abierta numérica 02
+[17:22:26] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[17:22:29] Acción: Operador
+[17:22:33] Acción: <=
+[17:22:36] Acción: Valor - Texto: 15
+[17:22:40] Acción: Unidad
+[17:22:43] Acción: -
+[17:22:46] Acción: Unidad de medida - Texto: 20
+[17:22:49] Acción: Calificación - Texto: 10
+[17:22:53] Acción: Sí comentarios
+[17:22:57] Acción: Sí evidencias
+[17:23:00] Acción: Guardar
+[17:23:16] Error en acción: Confirmar -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25b5741406d11d04f2344d203fef9de3, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62447}, goog:processID: 20096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62447/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25b5741406d11d04f2344d203fef9de3
+[17:23:16] Flujo de Preguntas completado.
+[17:23:16] Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25b5741406d11d04f2344d203fef9de3, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62447}, goog:processID: 20096, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62447/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25b5741406d11d04f2344d203fef9de3
+[17:23:56] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58882}, goog:processID: 17424, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58882/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5ba51a8f6d60c7a7f500cf59834202d3
+[17:23:56] Inicio de sesión completado correctamente.
+[17:23:56] Ejecutando módulo: Preguntas
+[17:24:11] Acción: Clic en Gestión de evaluaciones
+[17:24:11] Creando Pregunta automatizada abierta 01
+[17:24:14] Acción: Agregar nueva pregunta
+[17:24:18] Acción: Desplegando listado
+[17:24:22] Acción: Pregunta abierta
+[17:24:28] Acción: Título - Texto: Pregunta automatizada abierta 01
+[17:24:35] Acción: Información - Texto: Pregunta automatizada abierta 01
+[17:24:35] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[17:24:38] Acción: Calificación - Texto: 10
+[17:24:41] Acción: Sí evidencias
+[17:24:45] Acción: Guardar
+[17:24:51] Acción: Confirmar
+[17:24:51] Creando Pregunta automatizada abierta 02
+[17:24:55] Error en acción: Agregar nueva pregunta -> element click intercepted: Element <button type="button" class="ant-btn css-m9qqmq ant-btn-default ant-btn-color-default ant-btn-variant-outlined ant-btn-lg" style="background-color: rgb(142, 148, 251); color: rgb(255, 255, 255); border: none; font-weight: 600; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 6px;">...</button> is not clickable at point (1346, 338). Other element would receive the click: <div tabindex="-1" class="ant-modal-wrap">...</div>
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5ba51a8f6d60c7a7f500cf59834202d3, clickElement {id=f.F0620503EA29818D9D792BCF30DA2AAF.d.89ED5E8EB226C85B9979C8F00D312AD4.e.179}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58882}, goog:processID: 17424, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58882/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5ba51a8f6d60c7a7f500cf59834202d3)] -> xpath: //*[@id="rc-tabs-0-panel-1"]/div[2]/div[1]/button]
+Session ID: 5ba51a8f6d60c7a7f500cf59834202d3
+[17:24:58] Error en acción: Desplegando listado -> stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5ba51a8f6d60c7a7f500cf59834202d3, clickElement {id=f.F0620503EA29818D9D792BCF30DA2AAF.d.89ED5E8EB226C85B9979C8F00D312AD4.e.241}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58882}, goog:processID: 17424, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58882/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5ba51a8f6d60c7a7f500cf59834202d3)] -> xpath: //*[@id="createQuestion"]/div[2]/div/div[2]/div/div/div/div/span/span[1]]
+Session ID: 5ba51a8f6d60c7a7f500cf59834202d3
+[17:25:18] Error en acción: Pregunta abierta -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[3] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58882}, goog:processID: 17424, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58882/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5ba51a8f6d60c7a7f500cf59834202d3
+[17:25:24] Acción: Título - Texto: Pregunta automatizada abierta 02
+[17:25:30] Acción: Información - Texto: Pregunta automatizada abierta 02
+[17:25:30] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[17:25:33] Acción: Calificación - Texto: 10
+[17:25:37] Acción: Sí evidencias
+[17:25:40] Acción: Guardar

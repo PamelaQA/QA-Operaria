@@ -1,0 +1,204 @@
+[18:47:27] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50759}, goog:processID: 17008, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50759/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b7a61944217b277e53ec8f1ded3488f
+[18:47:27] Inicio de sesión completado
+[18:47:27] 🚀 Iniciando módulo: Evaluación NineBox con respuestas aleatorias
+[18:47:31] Acción: Clic en Mis Evaluaciones
+[18:47:35] Acción: Clic en Otras Evaluaciones
+[18:47:41] Acción: Comenzar evaluación
+[18:47:41] 🧩 Respondiendo sección: Desempeño
+[18:47:45] Acción: Pregunta 1 (Desempeño): NUNCA
+[18:47:49] Acción: Pregunta 2 (Desempeño): A VECES
+[18:47:52] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[18:47:56] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[18:48:00] Acción: Pregunta 5 (Desempeño): SIEMPRE
+[18:48:04] Acción: Pregunta 6 (Desempeño): NUNCA
+[18:48:07] Acción: Pregunta 7 (Desempeño): SIEMPRE
+[18:48:11] Acción: Pregunta 8 (Desempeño): A VECES
+[18:48:11] 🧩 Respondiendo sección: Potencial
+[18:48:15] Acción: Pregunta 1 (Potencial): NUNCA
+[18:48:19] Acción: Pregunta 2 (Potencial): RARA VEZ
+[18:48:22] Acción: Pregunta 3 (Potencial): SIEMPRE
+[18:48:26] Acción: Pregunta 4 (Potencial): SIEMPRE
+[18:48:30] Acción: Pregunta 5 (Potencial): NUNCA
+[18:48:34] Acción: Pregunta 6 (Potencial): NUNCA
+[18:48:37] Acción: Pregunta 7 (Potencial): A VECES
+[18:48:41] Acción: Pregunta 8 (Potencial): A VECES
+[18:48:45] Acción: Finalizar evaluación
+[18:48:45] ✅ Evaluación NineBox completada con respuestas aleatorias exitosamente.
+[18:48:45] Guardados logs del navegador en browser_logs_2025-11-09.txt
+[18:48:45] Ejecución finalizada correctamente
+[18:50:11] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49976}, goog:processID: 10472, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49976/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c716ff0e9d64e726874d8b134b27aa6c
+[18:50:11] Inicio de sesión completado
+[18:50:11] 🚀 Iniciando módulo: Evaluación NineBox con respuestas aleatorias
+[18:50:16] Acción: Clic en Mis Evaluaciones
+[18:50:19] Acción: Clic en Otras Evaluaciones
+[18:50:25] Acción: Comenzar evaluación
+[18:50:25] 🧩 Respondiendo sección: Desempeño
+[18:50:29] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[18:50:33] Acción: Pregunta 2 (Desempeño): A VECES
+[18:50:37] Acción: Pregunta 3 (Desempeño): A VECES
+[18:50:41] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[18:50:44] Acción: Pregunta 5 (Desempeño): NUNCA
+[18:50:48] Acción: Pregunta 6 (Desempeño): RARA VEZ
+[18:50:52] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[18:50:56] Acción: Pregunta 8 (Desempeño): NUNCA
+[18:50:56] 🧩 Respondiendo sección: Potencial
+[18:50:59] Acción: Pregunta 1 (Potencial): SIEMPRE
+[18:51:03] Acción: Pregunta 2 (Potencial): RARA VEZ
+[18:51:07] Acción: Pregunta 3 (Potencial): A VECES
+[18:51:11] Acción: Pregunta 4 (Potencial): NUNCA
+[18:51:14] Acción: Pregunta 5 (Potencial): RARA VEZ
+[18:51:18] Acción: Pregunta 6 (Potencial): SIEMPRE
+[18:51:22] Acción: Pregunta 7 (Potencial): NUNCA
+[18:51:25] Acción: Pregunta 8 (Potencial): SIEMPRE
+[18:51:29] Acción: Finalizar evaluación
+[18:51:29] ✅ Evaluación NineBox completada con respuestas aleatorias exitosamente.
+[18:51:29] Guardados logs del navegador en browser_logs_2025-11-09.txt
+[18:51:29] Ejecución finalizada correctamente
+[19:39:43] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60194}, goog:processID: 13920, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60194/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f50bf73ee0a083100f36a9d8749bd97
+[19:39:43] Inicio de sesión completado
+[19:39:47] Acción: Clic en Gestion de usuarios
+[19:39:51] Acción: Crear nuevo empleado
+[19:39:54] Acción: No Nomina - Texto: 1234
+[19:39:57] Acción: Nombre del colaborador - Texto: JOSE
+[19:40:01] Acción: Apellido Paterno - Texto: PEREZ
+[19:40:04] Acción: Apellido Materno - Texto: LOPEZ
+[19:40:08] Acción: Fecha de nacimiento - Texto: 1996-06-04
+[19:40:13] Acción: Escribiendo correo - Texto: qa@tecnolika.com
+[19:40:16] Acción: Desplegar género
+[19:40:20] Acción: Masculino
+[19:40:24] Acción: Desplegando escolaridad
+[19:40:27] Acción: Licenciatura
+[19:40:31] Acción: Desplegando estado civil
+[19:40:35] Acción: Soltero
+[19:40:39] Acción: Desplegando listado departamentos
+[19:40:42] Acción: Calidad
+[19:40:46] Acción: Desplegando listado de posiciones
+[19:40:50] Acción: Analista de calidad
+[19:40:53] Acción: Desplegando listado de categorías
+[19:40:57] Acción: AC
+[19:41:01] Acción: Escribiendo fecha de contratación - Texto: 2025-06-16
+[19:41:05] Acción: Escribiendo fecha de promoción - Texto: 2025-07-20
+[19:41:09] Acción: Desplegando listado del supervisor
+[19:41:13] Acción: Sleccionando supervisor
+[19:41:17] Acción: Desplegando listado de idiomas
+[19:41:20] Acción: es
+[19:41:24] Acción: Desplegando listado tipo de empleado
+[19:41:28] Acción: Seleccionando tipo de empleado medio tiempo
+[19:41:31] Acción: Desplegando lisado modalidad de trabajo
+[19:41:35] Acción: Seleccionando modalidad de trabajo remoto
+[19:41:39] Acción: Asignando al usuario tipo de sindicato, sindicalizado
+[19:41:43] Acción: Asignando al usuario como administrador
+[19:41:46] Acción: Asgnando al usuario como supervisor
+[19:41:50] Acción: Aplicando permiso nominal
+[19:41:54] Acción: Aplicando permiso de licenciamiento
+[19:41:58] Acción: Confirmar usuario
+[19:42:07] Acción: Crear nuevo empleado
+[19:42:11] Acción: Crear nuevo cliente
+[19:42:14] Acción: No identificativo - Texto: 149
+[19:42:18] Acción: Nombre - Texto: Samantha
+[19:42:21] Acción: Apellido Materno - Texto: Diaz
+[19:42:24] Acción: Apellido Paterno - Texto: Camacho
+[19:42:29] Acción: Correo - Texto: qa@operaria.co
+[19:42:33] Acción: Desplegando listado de Compañia
+[19:42:36] Acción: Seleccionando Compañia
+[19:42:40] Acción: Desplegando listado de Posición
+[19:42:44] Acción: Seleccionando Posición
+[19:42:47] Acción: Desplegando listado de idioma
+[19:42:51] Acción: Seleccionando idioma
+[19:42:55] Acción: Confirmar cliente
+[19:43:15] Error en acción: Mostrar QR -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[3]/div/ul/li[5]/span[2] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60194}, goog:processID: 13920, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60194/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f50bf73ee0a083100f36a9d8749bd97
+[20:23:16] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64329}, goog:processID: 6312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64329/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7e40c876b0d932e630b470075c3c6fd
+[20:23:16] Inicio de sesión completado
+[20:23:16] Ejecutando módulo: Departamentos
+[20:23:20] Acción: Clic en Gestion de usuarios
+[20:23:24] Acción: Clic en Departamentos
+[20:23:30] Acción: Nuevo departamento
+[20:23:37] Acción: Nombre del departamento - Texto: Departamento de área comercial
+[20:23:40] Acción: Símbolo del departamento - Texto: ACOM
+[20:23:43] Acción: Código - Texto: 20
+[20:23:46] Acción: Si es compañía
+[20:23:50] Acción: Confirmar
+[20:23:55] Acción: Confirmar x2
+[20:23:58] Acción: Editar departamento
+[20:24:04] Acción: Cambiar nombre del departamento - Texto: Departamento de comercial
+[20:24:07] Acción: Cambiando  símbolo del departamento - Texto: DC
+[20:24:11] Acción: No es compañía
+[20:24:15] Acción: Confirmar
+[20:24:19] Acción: Confirmar x2
+[20:24:23] Acción: Eliminar departamento
+[20:24:43] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=":r1j:"]/div/div/div[2]/button[2]/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64329}, goog:processID: 6312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64329/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7e40c876b0d932e630b470075c3c6fd
+[20:24:47] Acción: Desactivar departamento
+[20:25:08] Error en acción: Confirmar -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e40c876b0d932e630b470075c3c6fd, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64329}, goog:processID: 6312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64329/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7e40c876b0d932e630b470075c3c6fd
+[20:25:08] Error en acción: Exportar departamentos -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e40c876b0d932e630b470075c3c6fd, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64329}, goog:processID: 6312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64329/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7e40c876b0d932e630b470075c3c6fd
+[20:25:08] Flujo de Departamentos completado.
+[20:25:08] Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d7e40c876b0d932e630b470075c3c6fd, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64329}, goog:processID: 6312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64329/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d7e40c876b0d932e630b470075c3c6fd
+[20:27:04] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53110}, goog:processID: 14700, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53110/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a354c7380889021a713d60424514176
+[20:27:04] Inicio de sesión completado
+[20:27:04] Ejecutando módulo: Posiciones
+[20:27:08] Acción: Clic en Gestion de usuarios
+[20:27:12] Acción: Clic en Posiciones
+[20:27:16] Acción: Nueva Posición
+[20:27:25] Acción: Código - Texto: 5
+[20:27:30] Acción: Nombre de la posición - Texto: Director de comercio
+[20:27:33] Acción: Símbolo de la posición - Texto: DC
+[20:27:37] Acción: Confirmar
+[20:27:41] Acción: Confirmar x2
+[20:27:45] Acción: Editar posición
+[20:27:50] Acción: Cambiar nombre de la posición - Texto: Subdirector de comercio
+[20:27:53] Acción: Cambiando  símbolo de la posición - Texto: SBC
+[20:27:57] Acción: Confirmar
+[20:28:02] Acción: Confirmar x2
+[20:28:05] Acción: Eliminar posición

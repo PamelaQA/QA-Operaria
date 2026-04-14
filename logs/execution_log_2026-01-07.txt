@@ -1,0 +1,62 @@
+[12:24:14] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, goog:processID: 7412, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a3edc51bf2249a338303ec49ad15551
+[12:24:14] Inicio de sesión completado correctamente.
+[12:24:14] Ejecutando módulo: Preguntas
+[12:24:30] Acción: Clic en Gestión de evaluaciones
+[12:24:30] Creando Pregunta automatizada múltiple 01
+[12:24:33] Acción: Agregar nueva pregunta
+[12:24:37] Acción: Desplegando listado
+[12:24:41] Acción: Pregunta Múltiple
+[12:24:47] Acción: Título - Texto: Pregunta automatizada múltiple 01
+[12:24:54] Acción: Información - Texto: Pregunta automatizada múltiple 01
+[12:24:54] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[12:24:57] Acción: Calificación - Texto: 10
+[12:25:00] Acción: Opción 1 - Texto: Opción 1
+[12:25:03] Acción: Peso 1 - Texto: 10
+[12:25:07] Acción: Opción 2 - Texto: Opción 2
+[12:25:09] Acción: Peso 2 - Texto: 5
+[12:25:13] Acción: Agregar opción
+[12:25:17] Acción: Opción 3 - Texto: Opción 3
+[12:25:19] Acción: Peso 3 - Texto: 5
+[12:25:23] Acción: Orden por creación
+[12:25:27] Acción: No comentarios
+[12:25:30] Acción: Sí evidencias
+[12:25:34] Acción: Guardar
+[12:25:54] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, goog:processID: 7412, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a3edc51bf2249a338303ec49ad15551
+[12:25:54] Creando Pregunta automatizada múltiple 02
+[12:25:58] Acción: Agregar nueva pregunta
+[12:26:02] Acción: Desplegando listado
+[12:26:05] Acción: Pregunta Múltiple
+[12:26:11] Acción: Título - Texto: Pregunta automatizada múltiple 02
+[12:26:17] Acción: Información - Texto: Pregunta automatizada múltiple 02
+[12:26:18] Imagen subida correctamente: C:\Users\USER\Desktop\Usuarios\17.jpg
+[12:26:20] Acción: Calificación - Texto: 10
+[12:26:24] Acción: Opción 1 - Texto: Opción 1
+[12:26:27] Acción: Peso 1 - Texto: 10
+[12:26:30] Acción: Opción 2 - Texto: Opción 2
+[12:26:33] Acción: Peso 2 - Texto: 5
+[12:26:37] Acción: Agregar opción
+[12:26:40] Acción: Opción 3 - Texto: Opción 3
+[12:26:43] Acción: Peso 3 - Texto: 5
+[12:26:47] Acción: Orden por creación
+[12:26:50] Acción: No comentarios
+[12:26:54] Acción: Sí evidencias
+[12:26:58] Acción: Guardar
+[12:27:18] Error en acción: Confirmar -> Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/div[11]/div/div/div/div/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, goog:processID: 7412, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a3edc51bf2249a338303ec49ad15551
+[12:27:18] Flujo de Preguntas completado.
+[12:27:18] Guardados logs del navegador en browser_logs_2026-01-07.txt
+[12:27:18] Ejecución finalizada correctamente

@@ -1,0 +1,434 @@
+[10:13:23] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51806}, goog:processID: 10568, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51806/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d96c198568cc86886e3ec27e7258d608
+[10:13:23] Inicio de sesión completado correctamente.
+[10:13:23] 🧠 Ejecutando módulo: NOM-035
+[10:13:27] Acción: Clic en Mis Evaluaciones
+[10:13:35] Acción: Comenzar evaluacion
+[10:13:42] Acción: Aceptar la politica de prevención
+[10:13:46] Acción: Confirmar
+[10:13:50] Acción: Sí
+[10:13:53] Acción: Sí
+[10:13:57] Acción: No
+[10:14:01] Acción: Sí
+[10:14:04] Acción: Sí
+[10:14:08] Acción: Sí
+[10:14:12] Acción: No
+[10:14:16] Acción: No
+[10:14:19] Acción: Sí
+[10:14:23] Acción: No
+[10:14:27] Acción: No
+[10:14:30] Acción: Sí
+[10:14:34] Acción: Sí
+[10:14:38] Acción: Sí
+[10:14:42] Acción: No
+[10:14:45] Acción: No
+[10:14:49] Acción: No
+[10:14:53] Acción: Sí
+[10:21:49] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56774}, goog:processID: 19244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56774/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 232a50ebc2d8113ef8d5a498008e81f3
+[10:21:49] Inicio de sesión completado correctamente.
+[10:21:49] 🧠 Ejecutando módulo: NOM-035
+[10:21:53] Acción: Clic en Mis Evaluaciones
+[10:21:57] Acción: Clic en Otras Evaluaciones
+[10:22:02] Acción: Comenzar evaluación NOM035
+[10:23:47] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51880}, goog:processID: 20148, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51880/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb6dbe9193c345f84711a4daf26310ef
+[10:23:47] Inicio de sesión completado correctamente.
+[10:23:47] 🧠 Ejecutando módulo: NOM-035
+[10:23:52] Acción: Clic en Mis Evaluaciones
+[10:24:12] Error en acción: Comenzar evaluación NOM035 -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="rc-tabs-0-panel-3"]/div/div/div/div/div/div/table/tbody/tr[2]/td[5]/button/span (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51880}, goog:processID: 20148, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51880/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb6dbe9193c345f84711a4daf26310ef
+[10:25:31] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57564}, goog:processID: 7960, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57564/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6f3a791f67977eb139c9225cf9bfd99
+[10:25:31] Inicio de sesión completado correctamente.
+[10:25:31] 🧠 Ejecutando módulo: NOM-035
+[10:25:35] Acción: Clic en Mis Evaluaciones
+[10:25:43] Acción: Comenzar evaluacion
+[10:25:50] Acción: Aceptar la politica de prevención
+[10:25:54] Acción: Confirmar
+[10:25:58] Acción: No
+[10:25:58] 🔴 Respuesta 'No' en 264, saltando subpreguntas.
+[10:26:18] Error en acción: Sí -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="answer_265_25"]/label[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57564}, goog:processID: 7960, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57564/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6f3a791f67977eb139c9225cf9bfd99
+[10:26:18] 🟢 Respuesta 'Sí' en 265, respondiendo subpreguntas...
+[10:26:55] Error en acción: Finalizar evaluación -> Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a6f3a791f67977eb139c9225cf9bfd99, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57564}, goog:processID: 7960, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57564/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6f3a791f67977eb139c9225cf9bfd99
+[10:26:55] ✅ Evaluación NOM-035 completada correctamente.
+[10:26:55] ❌ Error general: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a6f3a791f67977eb139c9225cf9bfd99, getLog [type]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57564}, goog:processID: 7960, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57564/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6f3a791f67977eb139c9225cf9bfd99
+[10:27:52] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:27:52] Inicio de sesión completado correctamente.
+[10:27:52] 🧠 Ejecutando módulo: NOM-035
+[10:27:56] Acción: Clic en Mis Evaluaciones
+[10:28:04] Acción: Comenzar evaluacion
+[10:28:09] Acción: Aceptar la politica de prevención
+[10:28:13] Acción: Confirmar
+[10:28:17] Acción: Sí
+[10:28:17] 🟢 Respuesta 'Sí' en 264, respondiendo subpreguntas...
+[10:28:21] Acción: Sí
+[10:28:24] Acción: No
+[10:28:28] Acción: Sí
+[10:28:32] Acción: Sí
+[10:28:36] Acción: No
+[10:28:39] Acción: Sí
+[10:28:43] Acción: No
+[10:28:47] Acción: No
+[10:28:51] Acción: No
+[10:28:54] Acción: Sí
+[10:28:58] Acción: Sí
+[10:29:02] Acción: Sí
+[10:29:06] Acción: Sí
+[10:29:09] Acción: Sí
+[10:29:13] Acción: Nunca
+[10:29:17] Acción: Nunca
+[10:29:21] Acción: Casi nunca
+[10:29:24] Acción: Casi siempre
+[10:29:28] Acción: Casi nunca
+[10:29:32] Acción: Casi nunca
+[10:29:36] Acción: Siempre
+[10:29:39] Acción: Nunca
+[10:29:43] Acción: Siempre
+[10:29:47] Acción: Nunca
+[10:29:51] Acción: Casi nunca
+[10:29:54] Acción: Casi siempre
+[10:29:58] Acción: Nunca
+[10:30:02] Acción: Algunas veces
+[10:30:06] Acción: Casi siempre
+[10:30:09] Acción: Casi siempre
+[10:30:13] Acción: Casi nunca
+[10:30:17] Acción: Nunca
+[10:30:21] Acción: Algunas veces
+[10:30:24] Acción: Casi siempre
+[10:30:28] Acción: Casi siempre
+[10:30:32] Acción: Casi nunca
+[10:30:36] Acción: Nunca
+[10:30:40] Acción: Casi nunca
+[10:30:43] Acción: Nunca
+[10:30:47] Acción: Casi siempre
+[10:30:51] Acción: Algunas veces
+[10:30:55] Acción: Nunca
+[10:30:58] Acción: Casi siempre
+[10:31:02] Acción: Algunas veces
+[10:31:06] Acción: Siempre
+[10:31:10] Acción: Casi siempre
+[10:31:14] Acción: Siempre
+[10:31:17] Acción: Nunca
+[10:31:21] Acción: Casi nunca
+[10:31:25] Acción: Nunca
+[10:31:29] Acción: Algunas veces
+[10:31:33] Acción: Casi siempre
+[10:31:36] Acción: Siempre
+[10:31:40] Acción: Algunas veces
+[10:31:44] Acción: Casi nunca
+[10:31:48] Acción: Siempre
+[10:31:51] Acción: Casi siempre
+[10:31:55] Acción: Casi siempre
+[10:31:59] Acción: Casi siempre
+[10:32:03] Acción: Casi siempre
+[10:32:07] Acción: Casi nunca
+[10:32:10] Acción: Casi siempre
+[10:32:14] Acción: Siempre
+[10:32:18] Acción: Casi siempre
+[10:32:22] Acción: Casi nunca
+[10:32:26] Acción: Nunca
+[10:32:29] Acción: Siempre
+[10:32:33] Acción: Casi nunca
+[10:32:37] Acción: Casi siempre
+[10:32:41] Acción: Siempre
+[10:32:44] Acción: Casi nunca
+[10:32:48] Acción: Casi nunca
+[10:32:52] Acción: Casi siempre
+[10:32:56] Acción: Casi nunca
+[10:33:00] Acción: Casi siempre
+[10:33:03] Acción: Nunca
+[10:33:07] Acción: Casi nunca
+[10:33:11] Acción: Nunca
+[10:33:15] Error en acción: No -> element click intercepted: Element <span class="ant-radio-inner"></span> is not clickable at point (1293, 338). Other element would receive the click: <input name="answer_391_27" class="ant-radio-input" type="radio" value="No">
+  (Session info: chrome=142.0.7444.61)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeb936ade2b8ad39bee4eaa26e1f021d, clickElement {id=f.16835DCDA8D5D61AC6D4A50E71F0DB30.d.4FE6F84D2EA6BB7962DDE9128230C297.e.1042}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (aeb936ade2b8ad39bee4eaa26e1f021d)] -> xpath: //*[@id="answer_391_27"]/label[2]/span[1]/span]
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:33:19] Error en acción: No -> element click intercepted: Element <span class="ant-radio-inner"></span> is not clickable at point (920, 339). Other element would receive the click: <input name="answer_392_27" class="ant-radio-input" type="radio" value="Casi siempre">
+  (Session info: chrome=142.0.7444.61)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeb936ade2b8ad39bee4eaa26e1f021d, clickElement {id=f.16835DCDA8D5D61AC6D4A50E71F0DB30.d.4FE6F84D2EA6BB7962DDE9128230C297.e.1049}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (aeb936ade2b8ad39bee4eaa26e1f021d)] -> xpath: //*[@id="answer_392_27"]/label[2]/span[1]/span]
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:33:24] Error en acción: Sí -> element click intercepted: Element <span class="ant-radio-inner"></span> is not clickable at point (791, 338). Other element would receive the click: <input name="answer_393_27" class="ant-radio-input" type="radio" value="Siempre">
+  (Session info: chrome=142.0.7444.61)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeb936ade2b8ad39bee4eaa26e1f021d, clickElement {id=f.16835DCDA8D5D61AC6D4A50E71F0DB30.d.4FE6F84D2EA6BB7962DDE9128230C297.e.1061}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (aeb936ade2b8ad39bee4eaa26e1f021d)] -> xpath: //*[@id="answer_393_27"]/label[1]/span[1]/span]
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:33:24] 🟢 Pregunta 393 → 'Sí', respondiendo subpreguntas...
+[10:33:27] Acción: Subpregunta opción 5
+[10:33:31] Acción: Subpregunta opción 2
+[10:33:51] Error en acción: Subpregunta opción 3 -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="answer_396_27"]/label[3]/span[1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:33:55] Acción: Subpregunta opción 2
+[10:33:59] Error en acción: No -> element click intercepted: Element <span class="ant-radio-inner"></span> is not clickable at point (920, 339). Other element would receive the click: <input name="answer_398_27" class="ant-radio-input" type="radio" value="Casi siempre">
+  (Session info: chrome=142.0.7444.61)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeb936ade2b8ad39bee4eaa26e1f021d, clickElement {id=f.16835DCDA8D5D61AC6D4A50E71F0DB30.d.4FE6F84D2EA6BB7962DDE9128230C297.e.1086}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (aeb936ade2b8ad39bee4eaa26e1f021d)] -> xpath: //*[@id="answer_398_27"]/label[2]/span[1]/span]
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:34:03] Error en acción: Sí -> element click intercepted: Element <span class="ant-radio-inner"></span> is not clickable at point (791, 378). Other element would receive the click: <input name="answer_399_27" class="ant-radio-input" type="radio" value="Siempre">
+  (Session info: chrome=142.0.7444.61)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeb936ade2b8ad39bee4eaa26e1f021d, clickElement {id=f.16835DCDA8D5D61AC6D4A50E71F0DB30.d.4FE6F84D2EA6BB7962DDE9128230C297.e.1090}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51701}, goog:processID: 17972, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51701/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (aeb936ade2b8ad39bee4eaa26e1f021d)] -> xpath: //*[@id="answer_399_27"]/label[1]/span[1]/span]
+Session ID: aeb936ade2b8ad39bee4eaa26e1f021d
+[10:34:03] 🟢 Pregunta 399 → 'Sí', respondiendo subpreguntas...
+[10:34:07] Acción: Subpregunta opción 3
+[11:06:36] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50565}, goog:processID: 9152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50565/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bea3c91bc7d18d4c5e46ea46d53adb2
+[11:06:36] Inicio de sesión completado correctamente.
+[11:06:36] 🧠 Ejecutando módulo: NOM-035
+[11:06:37] Acción: Clic en Mis Evaluaciones
+[11:06:46] Acción: Comenzar evaluacion
+[11:06:53] Acción: Aceptar la politica de prevención
+[11:06:57] Acción: Confirmar
+[11:06:58] Acción: No
+[11:06:58] 🔴 Respuesta 'No' en 264, saltando subpreguntas.
+[11:07:18] ⚠️ Timeout esperando: Sí
+[11:07:18] 🟢 Respuesta 'Sí' en 265, respondiendo subpreguntas...
+[11:08:00] Acción: Casi nunca
+[11:08:01] Acción: Casi siempre
+[11:08:01] Acción: Casi nunca
+[11:08:02] Acción: Nunca
+[11:08:04] Acción: Casi siempre
+[11:08:05] Acción: Casi siempre
+[11:08:06] Acción: Siempre
+[11:08:07] Acción: Siempre
+[11:08:08] Acción: Siempre
+[11:08:09] Acción: Casi siempre
+[11:08:10] Acción: Siempre
+[11:08:11] Acción: Algunas veces
+[11:08:12] Acción: Casi nunca
+[11:08:13] Acción: Casi nunca
+[11:08:14] Acción: Nunca
+[11:08:15] Acción: Nunca
+[11:08:17] Acción: Nunca
+[11:08:18] Acción: Algunas veces
+[11:08:19] Acción: Nunca
+[11:08:20] Acción: Siempre
+[11:08:22] Acción: Siempre
+[11:08:23] Acción: Casi siempre
+[11:08:24] Acción: Algunas veces
+[11:08:25] Acción: Nunca
+[11:08:26] Acción: Nunca
+[11:08:27] Acción: Nunca
+[11:08:28] Acción: Casi nunca
+[11:08:29] Acción: Siempre
+[11:08:30] Acción: Siempre
+[11:08:31] Acción: Nunca
+[11:08:32] Acción: Casi nunca
+[11:08:33] Acción: Casi siempre
+[11:08:34] Acción: Algunas veces
+[11:08:35] Acción: Nunca
+[11:08:37] Acción: Algunas veces
+[11:08:38] Acción: Casi siempre
+[11:08:38] Acción: Algunas veces
+[11:08:39] Acción: Siempre
+[11:08:40] Acción: Algunas veces
+[11:08:41] Acción: Casi siempre
+[11:08:43] Acción: Casi siempre
+[11:08:44] Acción: Siempre
+[11:08:44] Acción: Casi siempre
+[11:08:45] Acción: Casi siempre
+[11:08:46] Acción: Casi nunca
+[11:08:47] Acción: Siempre
+[11:08:48] Acción: Casi nunca
+[11:08:49] Acción: Siempre
+[11:08:50] Acción: Casi nunca
+[11:08:51] Acción: Siempre
+[11:08:52] Acción: Nunca
+[11:08:53] Acción: Siempre
+[11:08:54] Acción: Casi nunca
+[11:08:54] Acción: Nunca
+[11:08:55] Acción: Casi siempre
+[11:08:56] Acción: Casi nunca
+[11:08:57] Acción: Casi nunca
+[11:08:58] Acción: Casi nunca
+[11:08:59] Acción: Siempre
+[11:09:00] Acción: Casi siempre
+[11:09:01] Acción: Casi nunca
+[11:09:02] Acción: Algunas veces
+[11:09:02] Acción: Nunca
+[11:09:04] Acción: Algunas veces
+[11:09:05] Acción: Sí
+[11:09:05] 🟢 Pregunta 391 → 'Sí', respondiendo subpreguntas...
+[11:09:06] Acción: Subpregunta opción 4
+[11:09:08] Acción: Subpregunta opción 1
+[11:09:09] Acción: Subpregunta opción 1
+[11:09:10] Acción: Subpregunta opción 3
+[11:09:12] Acción: No
+[11:09:33] Acción: Finalizar evaluación
+[11:09:33] ✅ Evaluación NOM-035 completada correctamente.
+[11:09:33] Guardados logs del navegador en browser_logs_2025-11-12.txt
+[11:09:33] Ejecución finalizada correctamente ✅
+[11:15:06] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://demo.operaria.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.61, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55894}, goog:processID: 4304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55894/devtoo..., se:cdpVersion: 142.0.7444.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d3b5f761e64cbbeef89f85e96424e9b0
+[11:15:06] Inicio de sesión completado correctamente.
+[11:15:06] Ejecutando módulo: NOM-035
+[11:15:08] Acción: Clic en Mis Evaluaciones
+[11:15:17] Acción: Comenzar evaluacion
+[11:15:27] Acción: Aceptar la politica de prevención
+[11:15:31] Acción: Confirmar
+[11:15:32] Acción: No
+[11:15:32] Respuesta 'No' en 264, saltando subpreguntas.
+[11:15:52] Timeout esperando: No
+[11:15:52] Respuesta 'No' en 265, saltando subpreguntas.
+[11:16:12] Timeout esperando: No
+[11:16:12] Respuesta 'No' en 266, saltando subpreguntas.
+[11:16:32] Timeout esperando: No
+[11:16:32] Respuesta 'No' en 267, saltando subpreguntas.
+[11:16:52] Timeout esperando: Sí
+[11:16:52] Respuesta 'Sí' en 268, respondiendo subpreguntas...
+[11:17:33] Acción: Casi nunca
+[11:17:34] Acción: Nunca
+[11:17:35] Acción: Algunas veces
+[11:17:36] Acción: Siempre
+[11:17:37] Acción: Algunas veces
+[11:17:37] Acción: Casi siempre
+[11:17:38] Acción: Casi nunca
+[11:17:39] Acción: Casi siempre
+[11:17:40] Acción: Casi nunca
+[11:17:41] Acción: Nunca
+[11:17:42] Acción: Nunca
+[11:17:43] Acción: Siempre
+[11:17:44] Acción: Casi siempre
+[11:17:45] Acción: Nunca
+[11:17:47] Acción: Casi siempre
+[11:17:48] Acción: Casi siempre
+[11:17:49] Acción: Algunas veces
+[11:17:51] Acción: Siempre
+[11:17:53] Acción: Algunas veces
+[11:17:54] Acción: Algunas veces
+[11:17:56] Acción: Casi siempre
+[11:17:58] Acción: Casi nunca
+[11:18:00] Acción: Nunca
+[11:18:02] Acción: Siempre
+[11:18:03] Acción: Siempre
+[11:18:04] Acción: Casi siempre
+[11:18:05] Acción: Casi siempre
+[11:18:06] Acción: Nunca
+[11:18:06] Acción: Siempre
+[11:18:07] Acción: Casi nunca
+[11:18:08] Acción: Casi nunca
+[11:18:10] Acción: Siempre
+[11:18:11] Acción: Algunas veces
+[11:18:12] Acción: Siempre
+[11:18:13] Acción: Siempre
+[11:18:13] Acción: Casi siempre
+[11:18:14] Acción: Casi siempre
+[11:18:15] Acción: Siempre
+[11:18:17] Acción: Siempre
+[11:18:18] Acción: Casi siempre
+[11:18:19] Acción: Casi siempre
+[11:18:20] Acción: Casi siempre
+[11:18:21] Acción: Nunca
+[11:18:22] Acción: Casi nunca
+[11:18:23] Acción: Algunas veces
+[11:18:24] Acción: Casi nunca
+[11:18:25] Acción: Algunas veces
+[11:18:26] Acción: Siempre
+[11:18:28] Acción: Siempre
+[11:18:29] Acción: Algunas veces
+[11:18:30] Acción: Nunca
+[11:18:31] Acción: Casi nunca
+[11:18:33] Acción: Casi siempre
+[11:18:34] Acción: Casi siempre
+[11:18:35] Acción: Siempre
+[11:18:36] Acción: Casi siempre
+[11:18:37] Acción: Siempre
+[11:18:38] Acción: Casi nunca
+[11:18:39] Acción: Casi siempre
+[11:18:41] Acción: Siempre
+[11:18:42] Acción: Casi nunca
+[11:18:42] Acción: Algunas veces
+[11:18:44] Acción: Algunas veces
+[11:18:45] Acción: Casi siempre
+[11:18:47] Acción: Sí
+[11:18:47] Pregunta 391 → 'Sí', respondiendo subpreguntas...
+[11:18:48] Acción: Subpregunta opción 5
+[11:18:49] Acción: Subpregunta opción 2
+[11:18:50] Acción: Subpregunta opción 1
+[11:18:51] Acción: Subpregunta opción 1
+[11:18:53] Acción: Sí
+[11:18:53] Pregunta 396 → 'Sí', respondiendo subpreguntas...
+[11:18:53] Acción: Subpregunta opción 3
+[11:18:55] Acción: Subpregunta opción 5
+[11:18:56] Acción: Subpregunta opción 2
+[11:18:58] Acción: Subpregunta opción 5
+[11:19:19] Acción: Finalizar evaluación
+[11:19:19] Evaluación NOM-035 completada correctamente.
+[11:19:19] Guardados logs del navegador en browser_logs_2025-11-12.txt
+[11:19:19] Ejecución finalizada correctamente ✅

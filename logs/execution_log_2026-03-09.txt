@@ -1,0 +1,317 @@
+[08:45:23] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51952}, goog:processID: 4160, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51952/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c0de976a9f62f5c031bb70c49fcffdd
+[08:45:23] Inicio de sesión completado correctamente.
+[08:45:30] Modo seleccionado: 2
+[08:45:30] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[08:45:34] Acción: Clic en Mis evaluaciones
+[08:45:38] Acción: Clic en otras evaluaciones
+[08:45:40] Evaluando a: Alan Alejandro Ortiz Díaz
+[08:45:41] Clic en: Comenzar evaluación
+[08:45:42] Respondiendo sección: Desempeño
+[08:45:45] Acción: Pregunta 1 (Desempeño): FRECUENTEMENTE
+[08:45:49] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[08:45:53] Acción: Pregunta 3 (Desempeño): FRECUENTEMENTE
+[08:45:56] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[08:46:00] Acción: Pregunta 5 (Desempeño): FRECUENTEMENTE
+[08:46:04] Acción: Pregunta 6 (Desempeño): FRECUENTEMENTE
+[08:46:07] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[08:46:11] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[08:46:11] Respondiendo sección: Potencial
+[08:46:15] Acción: Pregunta 1 (Potencial): SIEMPRE
+[08:46:18] Acción: Pregunta 2 (Potencial): SIEMPRE
+[08:46:22] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[08:46:26] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[08:46:29] Acción: Pregunta 5 (Potencial): FRECUENTEMENTE
+[08:46:33] Acción: Pregunta 6 (Potencial): SIEMPRE
+[08:46:37] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[08:46:40] Acción: Pregunta 8 (Potencial): SIEMPRE
+[08:47:00] Error en acción: Finalizar evaluación -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='root']/div/div[2]/div[2]/div/main/form/div[33]/div/div/div/div/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51952}, goog:processID: 4160, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51952/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c0de976a9f62f5c031bb70c49fcffdd
+[08:47:00] Evaluación finalizada para: Alan Alejandro Ortiz Díaz
+[08:47:02] Error invalid selector: Unable to locate an element with the xpath expression //*[@id=\"rc-tabs-0-tab-3\"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"rc-tabs-0-tab-3\"]' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c0de976a9f62f5c031bb70c49fcffdd, findElement {using=xpath, value=//*[@id=\"rc-tabs-0-tab-3\"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51952}, goog:processID: 4160, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51952/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c0de976a9f62f5c031bb70c49fcffdd
+[08:47:02] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[08:47:02] Ejecución finalizada correctamente
+[08:48:04] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49679}, goog:processID: 6816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49679/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43cfaeb569f71577c644b7fd163b72b7
+[08:48:04] Inicio de sesión completado correctamente.
+[08:48:13] Modo seleccionado: 1
+[08:48:13] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[08:48:17] Acción: Clic en Mis evaluaciones
+[08:48:21] Acción: Clic en otras evaluaciones
+[08:48:22] Evaluando a: Fernando de Jesus Martinez Zaragoza
+[08:48:23] Clic en: Comenzar evaluación
+[08:48:24] Respondiendo sección: Desempeño
+[08:48:28] Acción: Pregunta 1 (Desempeño): A VECES
+[08:48:31] Acción: Pregunta 2 (Desempeño): RARA VEZ
+[08:48:35] Acción: Pregunta 3 (Desempeño): A VECES
+[08:48:39] Acción: Pregunta 4 (Desempeño): A VECES
+[08:48:42] Acción: Pregunta 5 (Desempeño): A VECES
+[08:48:46] Acción: Pregunta 6 (Desempeño): NUNCA
+[08:48:50] Acción: Pregunta 7 (Desempeño): RARA VEZ
+[08:48:54] Acción: Pregunta 8 (Desempeño): NUNCA
+[08:48:54] Respondiendo sección: Potencial
+[08:48:57] Acción: Pregunta 1 (Potencial): A VECES
+[08:49:01] Acción: Pregunta 2 (Potencial): RARA VEZ
+[08:49:05] Acción: Pregunta 3 (Potencial): A VECES
+[08:49:08] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[08:49:12] Acción: Pregunta 5 (Potencial): A VECES
+[08:49:16] Acción: Pregunta 6 (Potencial): SIEMPRE
+[08:49:19] Acción: Pregunta 7 (Potencial): SIEMPRE
+[08:49:23] Acción: Pregunta 8 (Potencial): RARA VEZ
+[08:49:43] Error en acción: Finalizar evaluación -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='root']/div/div[2]/div[2]/div/main/form/div[33]/div/div/div/div/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49679}, goog:processID: 6816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49679/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43cfaeb569f71577c644b7fd163b72b7
+[08:49:43] Evaluación finalizada para: Fernando de Jesus Martinez Zaragoza
+[08:49:44] Error invalid selector: Unable to locate an element with the xpath expression //*[@id=\"rc-tabs-0-tab-3\"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"rc-tabs-0-tab-3\"]' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43cfaeb569f71577c644b7fd163b72b7, findElement {using=xpath, value=//*[@id=\"rc-tabs-0-tab-3\"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49679}, goog:processID: 6816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49679/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43cfaeb569f71577c644b7fd163b72b7
+[08:49:44] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[08:49:44] Ejecución finalizada correctamente
+[08:51:27] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49675}, goog:processID: 19076, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49675/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac89864d400939af57b588eed976d7b6
+[08:51:27] Inicio de sesión completado correctamente.
+[08:51:33] Modo seleccionado: 1
+[08:51:33] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[08:51:37] Acción: Clic en Mis evaluaciones
+[08:51:40] Acción: Clic en otras evaluaciones
+[08:51:42] Evaluando a: Jeneffer Stephane Hernandez Ortiz
+[08:51:42] Clic en: Comenzar evaluación
+[08:51:44] Respondiendo sección: Desempeño
+[08:51:47] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[08:51:51] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[08:51:55] Acción: Pregunta 3 (Desempeño): A VECES
+[08:51:58] Acción: Pregunta 4 (Desempeño): NUNCA
+[08:52:02] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[08:52:06] Acción: Pregunta 6 (Desempeño): A VECES
+[08:52:09] Acción: Pregunta 7 (Desempeño): A VECES
+[08:52:13] Acción: Pregunta 8 (Desempeño): NUNCA
+[08:52:13] Respondiendo sección: Potencial
+[08:52:17] Acción: Pregunta 1 (Potencial): NUNCA
+[08:52:20] Acción: Pregunta 2 (Potencial): RARA VEZ
+[08:52:24] Acción: Pregunta 3 (Potencial): FRECUENTEMENTE
+[08:52:28] Acción: Pregunta 4 (Potencial): A VECES
+[08:52:31] Acción: Pregunta 5 (Potencial): NUNCA
+[08:52:35] Acción: Pregunta 6 (Potencial): NUNCA
+[08:52:39] Acción: Pregunta 7 (Potencial): NUNCA
+[08:52:42] Acción: Pregunta 8 (Potencial): RARA VEZ
+[08:53:03] Error en acción: Finalizar evaluación -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='root']/div/div[2]/div[2]/div/main/form/div[33]/div/div/div/div/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49675}, goog:processID: 19076, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49675/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac89864d400939af57b588eed976d7b6
+[08:53:03] Evaluación finalizada para: Jeneffer Stephane Hernandez Ortiz
+[08:53:04] Error invalid selector: Unable to locate an element with the xpath expression //*[@id=\"rc-tabs-0-tab-3\"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"rc-tabs-0-tab-3\"]' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac89864d400939af57b588eed976d7b6, findElement {using=xpath, value=//*[@id=\"rc-tabs-0-tab-3\"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49675}, goog:processID: 19076, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49675/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac89864d400939af57b588eed976d7b6
+[08:53:04] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[08:53:04] Ejecución finalizada correctamente
+[08:53:56] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58068}, goog:processID: 20472, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58068/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2d155c3d18726f0c43a2e5702047d16
+[08:53:56] Inicio de sesión completado correctamente.
+[08:54:01] Modo seleccionado: 4
+[08:54:01] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[08:54:05] Acción: Clic en Mis evaluaciones
+[08:54:09] Acción: Clic en otras evaluaciones
+[08:54:10] Evaluando a: Angel Nathanael Gomez Rodriguez
+[08:54:10] Clic en: Comenzar evaluación
+[08:54:12] Respondiendo sección: Desempeño
+[08:54:15] Acción: Pregunta 1 (Desempeño): A VECES
+[08:54:19] Acción: Pregunta 2 (Desempeño): RARA VEZ
+[08:54:23] Acción: Pregunta 3 (Desempeño): RARA VEZ
+[08:54:26] Acción: Pregunta 4 (Desempeño): A VECES
+[08:54:30] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[08:54:34] Acción: Pregunta 6 (Desempeño): A VECES
+[08:54:37] Acción: Pregunta 7 (Desempeño): A VECES
+[08:54:41] Acción: Pregunta 8 (Desempeño): RARA VEZ
+[08:54:41] Respondiendo sección: Potencial
+[08:54:45] Acción: Pregunta 1 (Potencial): RARA VEZ
+[08:54:49] Acción: Pregunta 2 (Potencial): RARA VEZ
+[08:54:52] Acción: Pregunta 3 (Potencial): RARA VEZ
+[08:54:56] Acción: Pregunta 4 (Potencial): RARA VEZ
+[08:55:00] Acción: Pregunta 5 (Potencial): A VECES
+[08:55:03] Acción: Pregunta 6 (Potencial): RARA VEZ
+[08:55:07] Acción: Pregunta 7 (Potencial): RARA VEZ
+[08:55:11] Acción: Pregunta 8 (Potencial): A VECES
+[08:55:31] Error en acción: Finalizar evaluación -> Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id='root']/div/div[2]/div[2]/div/main/form/div[33]/div/div/div/div/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58068}, goog:processID: 20472, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58068/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2d155c3d18726f0c43a2e5702047d16
+[08:55:31] Evaluación finalizada para: Angel Nathanael Gomez Rodriguez
+[08:55:32] Error invalid selector: Unable to locate an element with the xpath expression //*[@id=\"rc-tabs-0-tab-3\"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"rc-tabs-0-tab-3\"]' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2d155c3d18726f0c43a2e5702047d16, findElement {value=//*[@id=\"rc-tabs-0-tab-3\"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58068}, goog:processID: 20472, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58068/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2d155c3d18726f0c43a2e5702047d16
+[08:55:32] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[08:55:32] Ejecución finalizada correctamente
+[08:57:35] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60275}, goog:processID: 5800, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60275/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ac1daf9fb9ecdacef151a3eb9d9ae2f
+[08:57:35] Inicio de sesión completado correctamente.
+[08:57:41] Modo seleccionado: 1
+[08:57:42] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[08:57:45] Acción: Clic en Mis evaluaciones
+[08:57:49] Acción: Clic en otras evaluaciones
+[08:57:51] Evaluando a: Jose Eduardo Mar Gallegos
+[08:57:51] Clic en: Comenzar evaluación
+[08:57:52] Respondiendo sección: Desempeño
+[08:57:56] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[08:58:00] Acción: Pregunta 2 (Desempeño): NUNCA
+[08:58:03] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[08:58:07] Acción: Pregunta 4 (Desempeño): RARA VEZ
+[08:58:11] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[08:58:14] Acción: Pregunta 6 (Desempeño): RARA VEZ
+[08:58:18] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[08:58:22] Acción: Pregunta 8 (Desempeño): SIEMPRE
+[08:58:22] Respondiendo sección: Potencial
+[08:58:25] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[08:58:29] Acción: Pregunta 2 (Potencial): RARA VEZ
+[08:58:33] Acción: Pregunta 3 (Potencial): A VECES
+[08:58:36] Acción: Pregunta 4 (Potencial): FRECUENTEMENTE
+[08:58:40] Acción: Pregunta 5 (Potencial): RARA VEZ
+[08:58:44] Acción: Pregunta 6 (Potencial): RARA VEZ
+[08:58:48] Acción: Pregunta 7 (Potencial): FRECUENTEMENTE
+[08:58:51] Acción: Pregunta 8 (Potencial): RARA VEZ
+[08:58:55] Acción: Finalizar evaluación
+[08:58:55] Evaluación finalizada para: Jose Eduardo Mar Gallegos
+[08:58:56] Error invalid selector: Unable to locate an element with the xpath expression //*[@id=\"rc-tabs-0-tab-3\"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"rc-tabs-0-tab-3\"]' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ac1daf9fb9ecdacef151a3eb9d9ae2f, findElement {value=//*[@id=\"rc-tabs-0-tab-3\"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60275}, goog:processID: 5800, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60275/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ac1daf9fb9ecdacef151a3eb9d9ae2f
+[08:58:56] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[08:58:56] Ejecución finalizada correctamente
+[09:00:56] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54820}, goog:processID: 1760, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54820/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5acaf6fbad8eb67229298b4ad935636e
+[09:00:56] Inicio de sesión completado correctamente.
+[09:01:00] Modo seleccionado: 1
+[09:01:00] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[09:01:04] Acción: Clic en Mis evaluaciones
+[09:01:09] Acción: Clic en otras evaluaciones
+[09:01:09] Evaluando a: Saul Alfonso Sesma Ortiz
+[09:01:10] Clic en: Comenzar evaluación
+[09:01:11] Respondiendo sección: Desempeño
+[09:01:15] Acción: Pregunta 1 (Desempeño): SIEMPRE
+[09:01:18] Acción: Pregunta 2 (Desempeño): FRECUENTEMENTE
+[09:01:22] Acción: Pregunta 3 (Desempeño): SIEMPRE
+[09:01:26] Acción: Pregunta 4 (Desempeño): FRECUENTEMENTE
+[09:01:30] Acción: Pregunta 5 (Desempeño): A VECES
+[09:01:33] Acción: Pregunta 6 (Desempeño): NUNCA
+[09:01:37] Acción: Pregunta 7 (Desempeño): FRECUENTEMENTE
+[09:01:41] Acción: Pregunta 8 (Desempeño): FRECUENTEMENTE
+[09:01:41] Respondiendo sección: Potencial
+[09:01:44] Acción: Pregunta 1 (Potencial): FRECUENTEMENTE
+[09:01:48] Acción: Pregunta 2 (Potencial): SIEMPRE
+[09:01:52] Acción: Pregunta 3 (Potencial): NUNCA
+[09:01:55] Acción: Pregunta 4 (Potencial): A VECES
+[09:01:59] Acción: Pregunta 5 (Potencial): A VECES
+[09:02:03] Acción: Pregunta 6 (Potencial): SIEMPRE
+[09:02:06] Acción: Pregunta 7 (Potencial): A VECES
+[09:02:10] Acción: Pregunta 8 (Potencial): SIEMPRE
+[09:02:14] Acción: Finalizar evaluación
+[09:02:14] Evaluación finalizada para: Saul Alfonso Sesma Ortiz
+[09:02:35] Error Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="rc-tabs-0-tab-3"] (tried for 20 second(s) with 500 milliseconds interval)
+[09:02:35] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[09:02:35] Ejecución finalizada correctamente
+[09:23:32] Error durante el login: Expected condition failed: waiting for url to contain "dashboard". Current url: "https://qa.operaria-test.co/Dashboard" (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.67 (87da8db4955d..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51784}, goog:processID: 20400, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51784/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a444270fca492cf33864008043f6a266
+[09:23:32] Inicio de sesión completado correctamente.
+[09:23:36] Modo seleccionado: 1
+[09:23:36] Iniciando módulo: Evaluación NineBox (modo múltiple)
+[09:23:40] Acción: Clic en Mis evaluaciones
+[09:23:43] Acción: Clic en otras evaluaciones
+[09:23:44] Evaluando a: Emmanuel Rangel Rosales
+[09:23:44] Clic en: Comenzar evaluación
+[09:23:46] Respondiendo sección: Desempeño
+[09:23:49] Acción: Pregunta 1 (Desempeño): NUNCA
+[09:23:53] Acción: Pregunta 2 (Desempeño): A VECES
+[09:23:57] Acción: Pregunta 3 (Desempeño): RARA VEZ
+[09:24:00] Acción: Pregunta 4 (Desempeño): SIEMPRE
+[09:24:04] Acción: Pregunta 5 (Desempeño): RARA VEZ
+[09:24:08] Acción: Pregunta 6 (Desempeño): NUNCA
+[09:24:11] Acción: Pregunta 7 (Desempeño): NUNCA
+[09:24:15] Acción: Pregunta 8 (Desempeño): A VECES
+[09:24:15] Respondiendo sección: Potencial
+[09:24:19] Acción: Pregunta 1 (Potencial): SIEMPRE
+[09:24:23] Acción: Pregunta 2 (Potencial): RARA VEZ
+[09:24:26] Acción: Pregunta 3 (Potencial): A VECES
+[09:24:30] Acción: Pregunta 4 (Potencial): A VECES
+[09:24:34] Acción: Pregunta 5 (Potencial): RARA VEZ
+[09:24:37] Acción: Pregunta 6 (Potencial): A VECES
+[09:24:41] Acción: Pregunta 7 (Potencial): A VECES
+[09:24:45] Acción: Pregunta 8 (Potencial): SIEMPRE
+[09:24:48] Acción: Finalizar evaluación
+[09:24:48] Evaluación finalizada para: Emmanuel Rangel Rosales
+[09:25:10] Error Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="rc-tabs-0-tab-3"] (tried for 20 second(s) with 500 milliseconds interval)
+[09:25:10] Guardados logs del navegador en browser_logs_2026-03-09.txt
+[09:25:10] Ejecución finalizada correctamente

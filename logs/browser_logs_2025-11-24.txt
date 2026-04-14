@@ -1,0 +1,45 @@
+[Mon Nov 24 17:16:09 CST 2025] [WARNING] https://demo.operaria.co/login - <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+[Mon Nov 24 17:16:16 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Mon Nov 24 17:16:16 CST 2025] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Mon Nov 24 17:16:17 CST 2025] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Mon Nov 24 17:16:17 CST 2025] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Mon Nov 24 17:16:17 CST 2025] [SEVERE] https://demo.operaria.co/assets/index-D0xWoFpv.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Mon Nov 24 17:16:17 CST 2025] [SEVERE] https://demo.operaria.co/assets/index-D0xWoFpv.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:31 CST 2025] [SEVERE] https://demo.operaria.co/Dashboard 0:0 Uncaught (in promise)
+[Mon Nov 24 17:16:50 CST 2025] [WARNING] https://demo.operaria.co/evaluations-management - <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Mon Nov 24 17:16:50 CST 2025] [SEVERE] https://demo.operaria.co/assets/index-D0xWoFpv.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Mon Nov 24 17:16:57 CST 2025] [SEVERE] https://backdemo.operaria.co/api/checkInStatus - Failed to load resource: the server responded with a status of 401 ()
+[Mon Nov 24 17:16:57 CST 2025] [SEVERE] https://demo.operaria.co/assets/index-D0xWoFpv.js 97:1288 Uncaught AxiosError$1: Request failed with status code 401
+[Mon Nov 24 17:16:57 CST 2025] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Mon Nov 24 17:16:57 CST 2025] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
+[Mon Nov 24 17:18:19 CST 2025] [SEVERE] https://demo.operaria.co/evaluations-management - Access to XMLHttpRequest at 'https://backdemo.operaria.co/' from origin 'https://demo.operaria.co' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[Mon Nov 24 17:18:19 CST 2025] [SEVERE] https://backdemo.operaria.co/ - Failed to load resource: net::ERR_FAILED
